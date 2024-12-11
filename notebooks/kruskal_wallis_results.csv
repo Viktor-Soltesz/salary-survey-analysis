@@ -1,0 +1,28 @@
+Factorial Group,p-value,p-value (corrected),Reject Null Hypothesis
+"('Architects', 'executive')",0.12583616582100993,1.0,False
+"('Architects', 'medior')",0.007792082838686547,0.21038623664453676,False
+"('Architects', 'senior')",1.2896392615209223e-18,3.4820260061064904e-17,True
+"('Data Analyst', 'executive')",2.2162988082095146e-12,5.98400678216569e-11,True
+"('Data Analyst', 'junior')",4.925312233960109e-252,1.3298343031692294e-250,True
+"('Data Analyst', 'medior')",5.361740968006964e-174,1.4476700613618803e-172,True
+"('Data Analyst', 'senior')",7.369728942627244e-217,1.989826814509356e-215,True
+"('Data Engineer', 'executive')",1.0949818226279737e-21,2.956450921095529e-20,True
+"('Data Engineer', 'junior')",3.1989536984383218e-55,8.637174985783469e-54,True
+"('Data Engineer', 'medior')",3.34736707719103e-109,9.03789110841578e-108,True
+"('Data Engineer', 'senior')",1.6990372629867125e-172,4.587400610064124e-171,True
+"('Data Scientist/ ML Engineer', 'executive')",9.968066276864036e-39,2.69137789475329e-37,True
+"('Data Scientist/ ML Engineer', 'junior')",1.471411622882844e-171,3.972811381783679e-170,True
+"('Data Scientist/ ML Engineer', 'medior')",0.0,0.0,True
+"('Data Scientist/ ML Engineer', 'senior')",0.0,0.0,True
+"('Database Dev & Admin', 'medior')",0.002607026765351096,0.0703897226644796,False
+"('Database Dev & Admin', 'senior')",4.508343265354808e-05,0.0012172526816457982,True
+"('Other Engineers', 'medior')",0.08526711042575734,1.0,False
+"('Other Engineers', 'senior')",0.0006027918580643589,0.01627538016773769,True
+"('Project managers', 'medior')",1.4031114367785064e-09,3.7884008793019674e-08,True
+"('Project managers', 'senior')",1.8648422567674496e-13,5.035074093272114e-12,True
+"('Software Engineer', 'junior')",5.791441539117972e-26,1.5636892155618524e-24,True
+"('Software Engineer', 'medior')",1.3309881663773554e-97,3.5936680492188593e-96,True
+"('Software Engineer', 'senior')",1.6883976542053247e-145,4.5586736663543764e-144,True
+"('Too vague answers', 'junior')",0.0003662676159343617,0.009889225630227766,True
+"('Too vague answers', 'medior')",1.3547895950293163e-08,3.657931906579154e-07,True
+"('Too vague answers', 'senior')",2.4880024288784218e-12,6.717606557971739e-11,True

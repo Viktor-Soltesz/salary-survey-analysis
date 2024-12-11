@@ -1,0 +1,774 @@
+City,Your city,Employment status,Your employment status,Position,Your position,Total years of experience,Years of experience in Germany,Seniority level,Your seniority level,Main technology / programming language,Other technologies/programming languages you use often,Years in the current workplace,What languages do you speak and use at work?,Your main technology,Just a few more general questions,Company size,Annual gross salary without bonus and stocks in EUR,Annual Brutto salary with bonus and stocks in EUR,Annual bonus+stocks one year ago.,Number of vacation days,Hourly rate in EUR,Working hours for the last year,Number of days off in the last year,"Third-party income from small customers or own projects (annualy, in EUR)",Working hours per week,layoff affects you,company layoffs,Work From Home allowance
+Berlin,,Full-time employee,,Backend Developer,,5,1,Middle,,Go,"Javascript / Typescript,NodeJS, React,Go,SQL,Kubernetes,Terraform,Docker,AWS",5,English,,,1000+,92000,0,,28,,,,,,,No,100 - 500
+Other,Friedrichshafen,Full-time employee,,Tech Lead / Team Lead,,18,10,Head / Principal,,C / C++,Other,9,German,,,11-50,84000,91000,89000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Engineering Manager,,11,3,Lead / Staff,,Java,"SQL,AWS,Terraform,Docker",3,English,,,1000+,105000,115000,105000,30,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,Engineering Manager,,15,7,Lead / Staff,,JavaScript / Typescript," React,NodeJS,SQL,AWS,Docker",0,English,,,1000+,115000,140000,90000,30,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,Other,SRE,10,2,Middle,,Other,"Python,Kubernetes,Docker,AWS",2,"English,Russian",AWS,,101-1000,67000,76000,68000,28,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Backend Developer,,16,7,Middle,,NodeJS,Javascript / Typescript,1,English,,,1000+,85000,85000,82500,28,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Mobile Developer,,7,5,Senior,,Kotlin,Java / Scala,1,German,,,11-50,80000,85000,80000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Mobile Developer,,6,4,Middle,,Swift,"Kotlin,Javascript / Typescript",1,English,,,1000+,92500,125000,118000,28,,,,,,No,Yes,over 1000 euros
+Berlin,,Full-time employee,,Software Engineer,,15,0,Senior,,Python,"Python,AWS",0,English,,,1000+,103000,125000,,28,,,,,,No,Yes,over 1000 euros
+Berlin,,Full-time employee,,Backend Developer,,6,2,Senior,,Java,"SQL,Docker,Kubernetes,Google Cloud",0,English,,,101-1000,85000,0,85000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,7,3,Senior,,Java,,0,English,,,1000+,95000,30,86000,Unlimited,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,Data Scientist,,6,6,Senior,,Python,"AWS,SQL,Docker",0,English,,,1000+,112000,150000,88000,30,,,,,,No,Yes,No
+Stuttgart,,Full-time employee,,QA Engineer,,5,3,Middle,,Other,,3,"English,German,Russian",,,101-1000,60000,60000,60000,30,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,ML Engineer,,4,1,Middle,,Python,"Python,AWS,Docker,Java / Scala",1,English,,,1000+,81000,81000,75000,27,,,,,,,No,No
+Stuttgart,,Full-time employee,,Software / Solutions Architect,,24,5,Senior,,Other,"AWS,Kubernetes,Terraform",1,"English,Russian",Erlang,,1000+,142000,170000,120000,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Software Engineer,,6,3,Senior,,Ruby,"Javascript / Typescript,Terraform,Java / Scala,NodeJS",0,English,,,1000+,125000,252000,85000,33,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,Software Engineer,,10,5,Senior,,C# / .NET,"Javascript / Typescript,Angular,SQL,Docker",3,English,,,1000+,80000,80000,78000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Data Scientist,,12,7,Head / Principal,,Python,AWS,4,English,,,1000+,130000,200000,220000,28,,,,,,,No,100 - 500
+Munich,,Full-time employee,,Software Engineer,,7,5,Senior,,JavaScript / Typescript,React,0,English,,,51-100,112000,120000,80000,"unlimited, min 25",,,,,,No,Yes,No
+Berlin,,Full-time employee,,Product Manager,,15,4,Lead / Staff,,Other,,0,"English,German",Product :),,51-100,92000,102000,90000,30,,,,,,,No,No
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,25,7,Head / Principal,,Python,SQL,4,Russian,,,up to 10,84000,84000,80000,30,,,,,,,No,No
+Frankfurt,,Full-time employee,,Software / Solutions Architect,,14,14,Lead / Staff,,Python,"Python,Java / Scala,R,SQL",4,"English,German",,,1000+,140000,170000,140000,30,,,,,,,No,100 - 500
+Hamburg,,Full-time employee,,Software Engineer,,15,8,Senior,,Python,,0,English,,,1000+,110000,150000,120000,30,,,,,,No,Yes,over 1000 euros
+Berlin,,Full-time employee,,Software Engineer,,15,7,Senior,,JavaScript / Typescript,,0,English,,,1000+,110000,146000,,30,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,Engineering Manager,,11,0,Senior,,Other,,4,"English,Russian",,,1000+,120000,168000,,30,,,,,,No,Yes,No
+Munich,,Full-time employee,,Software Engineer,,11,3,Senior,,Java,"Kotlin,Javascript / Typescript, React,Java / Scala,SQL,AWS,Docker",3,English,,,11-50,90000,90000,85000,30,,,,,,,No,No
+Hamburg,,Full-time employee,,Software Engineer,,4,4,Middle,,C# / .NET,Python,4,"German,English",,,11-50,60000,68000,64000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,9,5,Middle,,Ruby,Javascript / Typescript,0,English,,,1000+,85000,100000,67000,25,,,,,,No,Yes,over 1000 euros
+Munich,,Full-time employee,,Software Engineer,,6,1,Senior,,JavaScript / Typescript,"Javascript / Typescript, React,NodeJS,AWS",1,"English,Russian",,,11-50,75000,75000,55000,30,,,,,,,No,No
+Munich,,Full-time employee,,Data Scientist,,3,2,Middle,,Python,"SQL,AWS",2,"English,German,Russian",,,11-50,67000,72000,64000,30,,,,,,,No,No
+Munich,,Full-time employee,,Software / Solutions Architect,,19,5,Lead / Staff,,Go,"Javascript / Typescript,Python,Kubernetes,Azure,Google Cloud,AWS,Terraform,Docker,Other",1,English,,,11-50,140000,190000,130000,32,,,,,,No,Yes,over 1000 euros
+Berlin,,Full-time employee,,Designer (UI/UX),,12,4,Senior,,Other,,0,English,,,1000+,134000,137500,80000,unlimited,,,,,,No,Yes,over 1000 euros
+Berlin,,Full-time employee,,Data Scientist,,2,2,Junior,,Python,"SQL,AWS,Docker",2,English,,,101-1000,66000,72600,66000,28,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,QA Engineer,,6,1,Middle,,Other,"SQL,SAP / ABAP",1,"English,German",,,1000+,48000,52000,,30,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,16,3,Lead / Staff,,C / C++,"Python,Docker",0,English,,,101-1000,150000,150000,130000,30,,,,,,,No,500 - 1000
+Other,,Full-time employee,,Software Engineer,,8,3,Senior,,Java,"Kotlin,AWS",0,English,,,1000+,100000,130000,75000,28,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,DevOps,,17,8,Senior,,Other,"Go,Google Cloud,Kubernetes,Terraform,Docker",4,English,kubernetes,,101-1000,87000,100000,96000,28,,,,,,,No,No
+Stuttgart,,Full-time employee,,Software Engineer,,3,3,Junior,,C / C++,"Java / Scala,C / C++",3,English,,,11-50,57000,57000,51000,30,,,,,,,No,No
+Munich,,Full-time employee,,Frontend Developer,,7,5,,,JavaScript / Typescript," React,Javascript / Typescript",2,English,,,1000+,76800,83000,77000,30,,,,,,,No,No
+Frankfurt,,Full-time employee,,QA Engineer,,8,2,Senior,,Java,Other,2,German,,,11-50,72000,74000,,30,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,Backend Developer,,10,1,Senior,,Scala,"Java / Scala,Javascript / Typescript,Docker,Terraform,Kubernetes,AWS",2,English,,,101-1000,95000,95000,87000,25,,,,,,,No,500 - 1000
+Dusseldorf,,Full-time employee,,DevOps,,20,6,Senior,,Other,"SQL,AWS,Google Cloud,Azure,Kubernetes,Docker,Terraform,Other",3,"English,German",Linux,,1000+,100000,110000,95000,30,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,Data Scientist,,6,3,Senior,,Python,"Docker,SQL",0,English,,,1000+,116000,150000,110000,28,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,15,8,Lead / Staff,,Java,"C / C++,AWS,Docker,Go,SQL,NodeJS,Javascript / Typescript,Kotlin,Java / Scala",0,English,,,1000+,140000,299500,184000,28,,,,,,No,Yes,500 - 1000
+Berlin,,Full-time employee,,Mobile Developer,,8,6,Senior,,Swift,Other,4,English,,,101-1000,75000,80000,65300,28,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,5,4,Middle,,Java,"NodeJS,Angular,Javascript / Typescript,SQL,AWS,Terraform,Docker",2,"English,Russian",,,101-1000,82000,82000,78000,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Software Engineer,,10,2,Senior,,Go,"AWS,Terraform,Docker,SQL",1,"English,Russian",,,101-1000,85000,95000,72000,unlimited,,,,,,,No,100 - 500
+Munich,,Full-time employee,,Software / Solutions Architect,,15,5,Senior,,Python,"AWS,Terraform,Docker",1,English,,,1000+,90000,112000,118000,28,,,,,,No,Yes,500 - 1000
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,12,5,Senior,,Java,"Javascript / Typescript,Angular,NodeJS,SQL,AWS,Terraform,Docker",5,English,,,101-1000,89000,89000,83000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Data Scientist,,5,4,Senior,,Python,"AWS,SQL,Kubernetes,Docker",4,English,,,1000+,91000,91000,78000,30,,,,,,,No,500 - 1000
+Frankfurt,,Full-time employee,,QA Engineer,,12,4,Senior,,Other,,0,English,,,101-1000,72000,77000,65000,30,,,,,,,No,No
+Munich,,Full-time employee,,Product Manager,,3,1,Middle,,Python,"AWS,Terraform,Kubernetes",1,"English,German",,,51-100,75000,75000,,29,,,,,,,No,No
+Munich,,Full-time employee,,Mobile Developer,,7,3,Senior,,Swift,,1,"English,Russian",,,1000+,86000,86000,74000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,5,2,Middle,,Java,,0,English,,,101-1000,77000,85000,65000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,4,2,Middle,,Python,"Python,SQL,Kubernetes,Terraform,Docker,AWS,Google Cloud",0,English,,,1000+,80000,80000,42000,25,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Other,Tech Recruiter,13,6,Lead / Staff,,Other,,0,English,,,1000+,83000,105000,75000,27,,,,,,"Yes, I am satisfied with a severance package",Yes,No
+Munich,,Full-time employee,,Software / Solutions Architect,,25,15,Lead / Staff,,Java,"Java / Scala,AWS,Docker,Kubernetes",1,German,,,11-50,95000,95000,95000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Data Scientist,,7,0,Senior,,Python,"Python,Google Cloud",0,English,,,1000+,95000,110000,,28,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,Backend Developer,,14,2,Senior,,PHP,"Javascript / Typescript,Go",2,"Russian,English",,,1000+,80000,80000,70000,30,,,,,,,No,No
+Hamburg,,Full-time employee,,Product Manager,,3,1,Senior,,Other,Azure,0,"English,Russian",Groovy,,1000+,70000,81000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,ML Engineer,,2,2,Junior,,Python,"AWS,Docker,Other",1,English,,,1000+,53000,53000,,30,,,,,,No,Yes,No
+Berlin,,Self-employed (freelancer),,QA Engineer,,10,5,Senior,,Rust,Docker,0,English,,,1000+,,,,,75,1900,25,0,,,No,over 1000 euros
+Berlin,,Full-time employee,,Backend Developer,,10,5,Lead / Staff,,PHP,"Docker,Go",5,English,,,1000+,80000,101000,75000,28,,,,,,,No,No
+Berlin,,Full-time employee,,ML Engineer,,5,4,Middle,,Python,"AWS,Kubernetes,Terraform,Docker",0,English,,,1000+,135,220,75,30,,,,,,No,Yes,100 - 500
+Munich,,Full-time employee,,Other,HR IT Specialist,7,7,Senior,,Other,,0,"English,German",I am not a coder,,1000+,77000,82000,70500,30,,,,,,,No,No
+Heidelberg,,Full-time employee,,Backend Developer,,8,4,Senior,,C# / .NET,"Javascript / Typescript, React",1,"English,Russian",,,1000+,69000,75000,65000,30,,,,,,,No,No
+Berlin,,Full-time employee,,DevOps,,18,3,Senior,,Other,"AWS,Kubernetes,Terraform,Docker",2,English,,,1000+,94000,108000,98000,28,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,Software Engineer,,12,6,Senior,,Kotlin,"Python,AWS,Kubernetes,Terraform,Docker",1,English,,,1000+,96000,130000,96500,30,,,,,,,No,100 - 500
+Munich,,Full-time employee,,Software Engineer,,4,4,Middle,,Java,Java / Scala,0,"German,English",,,101-1000,650000,65000,,28,,,,,,,No,No
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,10,7,Middle,,Scala,Google Cloud,1,English,,,1000+,88000,100000,89000,30,,,,,,No,Yes,500 - 1000
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,14,8,Lead / Staff,,C# / .NET,"C# / .NET core,Angular,.NET,SQL,AWS,Azure,Docker",0,English,,,1000+,74000,77000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,ML Engineer,,3,0,Middle,,Python,,0,English,,,11-50,66000,66000,,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Engineering Manager,,20,10,Lead / Staff,,PHP,"Java / Scala,Python,Kotlin,C# / .NET core,Javascript / Typescript, React,SQL,Google Cloud,Kubernetes,Terraform,Docker",5,"English,German,Russian",,,1000+,120000,256800,158000,unlimited,,,,,,No,Yes,over 1000 euros
+Other,Friedrichshafen,Full-time employee,,Tech Lead / Team Lead,,12,6,Lead / Staff,,C / C++,"Python,C / C++,Other,Javascript / Typescript",5,"English,Russian",,,1000+,97000,150000,120000,unlimited,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Engineering Manager,,12,6,Senior,,Java,"Java / Scala,Google Cloud,Kubernetes,Terraform,Docker",0,English,,,101-1000,100000,0,80000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Frontend Developer,,10,4,Senior,,JavaScript / Typescript,"Docker,Kubernetes,Google Cloud, React,Angular,Javascript / Typescript,Python",3,"English,German",,,101-1000,80000,0,,32,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,QA Engineer,,4,1,Middle,,Kotlin,,1,English,,,1000+,57000,57000,57000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,15,4,Lead / Staff,,JavaScript / Typescript,Angular,4,"English,German,Russian",,,101-1000,101000,103000,86000,27,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,7,5,Senior,,Go," React,NodeJS,Javascript / Typescript",0,English,,,101-1000,130000,240000,90000,25,,,,,,,No,No
+Berlin,,Full-time employee,,Product Manager,,15,6,Lead / Staff,,Java,"PHP,Google Cloud",0,English,,,1000+,115000,170000,85000,Unlimited,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,Software Engineer,,25,14,Senior,,Java,"Kotlin,SQL,AWS,Google Cloud",4,"Russian,English",,,101-1000,82000,82000,77000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Data Scientist,,10,1,Senior,,Python,"Python,R,SQL,AWS,Google Cloud,Azure,Kubernetes,Docker",0,English,,,101-1000,75000,86000,,28,,,,,,,No,No
+Berlin,,Full-time employee,,Head / Principal / VP,,20,5,Head / Principal,,Other,"Java / Scala, React,NodeJS,SQL,AWS,Google Cloud,Docker",0,English,Javascript,,51-100,120000,120000,100000,28,,,,,,"Yes, I am satisfied with a severance package",Yes,No
+Berlin,,Full-time employee,,Software Engineer,,11,0,Senior,,C / C++,C / C++,0,"Russian,English",,,11-50,75000,75000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Head / Principal / VP,,15,3,Head / Principal,,SQL,Python,0,English,,,51-100,95000,107000,78000,28,,,,,,No,Yes,No
+Munich,,Full-time employee,,Other,Staff engineer,7,5,Senior,,Other,,0,English,,,1000+,82000,90000,75000,30,,,,,,,No,No
+Hamburg,,Full-time employee,,Other,Support engineer,15,4,Middle,,Other,"Kubernetes,AWS,Azure",3,English,,,101-1000,65000,70000,,,,,,,,,No,No
+Berlin,,Full-time employee,,Other,Delivery manager,10,1,Middle,,JavaScript / Typescript,,0,English,,,101-1000,72000,6000,,Unlimited,,,,,,,No,No
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,2,2,Junior,,Python,"Python,SQL,Google Cloud,Docker",2,English,,,1000+,56500,56500,51000,28,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Backend Developer,,15,6,Senior,,Java,"Python,Java / Scala,Kubernetes,Docker",6,English,,,101-1000,79000,79000,79000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,17,7,Senior,,Ruby,"Javascript / Typescript,Other",0,English,,,51-100,90000,90540,70000,28,,,,,,,No,No
+Hamburg,,Full-time employee,,Tech Lead / Team Lead,,14,8,Lead / Staff,,PHP,"Javascript / Typescript,SQL",0,English,,,1000+,90000,95000,65000,28,,,,,,,No,No
+Berlin,,Full-time employee,,Data Scientist,,4,0,Middle,,Python,"SQL,AWS,Docker",0,English,,,1000+,75000,75000,,26,,,,,,,No,500 - 1000
+Other,,Full-time employee,,Other,Cybersecurity Officer,15,1,Senior,,Other,,0,"English,German",,,1000+,110000,114000,97500,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,10,2,Senior,,Ruby,Go,2,English,,,51-100,85000,85000,82000,28,,,,,,,No,No
+Berlin,,Full-time employee,,DevOps,,12,6,Senior,,PHP,"Terraform,Docker,AWS",6,"English,German,Russian",,,101-1000,70000,78000,68000,unlimited,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Software / Solutions Architect,,16,11,Senior,,Other,"Python,Javascript / Typescript,NodeJS,Go,AWS,Google Cloud,Azure,Kubernetes,Terraform,Docker",2,English,,,101-1000,96000,120000,112500,30,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,Backend Developer,,15,3,Senior,,Go,"Python,Ruby",2,"English,Russian",,,101-1000,90000,90000,85000,unlimited,,,,,,,No,No
+Berlin,,Full-time employee,,Product Manager,,7,3,Senior,,Java,"Javascript / Typescript,Angular",2,"English,German,Russian",,,101-1000,66000,66000,60000,28,,,,,,,No,No
+Berlin,,Full-time employee,,Product Manager,,15,12,Senior,,Other,"AWS,Google Cloud,Azure,Python,Java / Scala,Terraform,Kubernetes,Other",1,English,,,51-100,108000,110000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,3,0,Middle,,Swift,"Java / Scala,Ruby,SQL,Kubernetes,Docker,AWS,Swift",0,English,,,1000+,70000,70000,,25,,,,,,,No,100 - 500
+Munich,,Full-time employee,,Other,Data Analyst,10,0,Senior,,Python,SQL,1,"English,German,Russian",,,101-1000,60000,67000,,,,,,,,,No,over 1000 euros
+Stuttgart,,Full-time employee,,Other,IT Security,8,6,Senior,,SAP / ABAP,,4,German,,,1000+,81000,93000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,DevOps,,15,6,Lead / Staff,,Other,"Python,Go,AWS,Google Cloud,Azure,Kubernetes,Terraform,Docker",3,"English,Russian","Clouds, docker, go, linux, terraform",,51-100,88000,88000,75000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Data Scientist,,8,5,Senior,,Python,"Docker,Kubernetes",1,"English,Russian",,,101-1000,88000,88000,73000,30,,,,,,,No,No
+Heidelberg,,Full-time employee,,Software Engineer,,7,7,Senior,,C# / .NET,"Angular,Docker,Azure,Javascript / Typescript",1,German,,,101-1000,65000,75000,75000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Data Scientist,,1,0,Junior,,Python,"Java / Scala,SQL,AWS",0,English,,,1000+,65000,0,,28,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,DevOps,,8,5,Senior,,Python,"Python,Javascript / Typescript, React,NodeJS,SQL,AWS,Terraform,Docker",2,"English,Russian",,,101-1000,74000,74000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,5,4,Senior,,Go,"Javascript / Typescript,Kubernetes,Docker,Other",1,English,,,101-1000,85000,85000,65000,unlimited,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,Scrum Master / Agile Coach,,3,1,Middle,,Python,,2,English,,,1000+,70000,73000,,30,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Mobile Developer,,10,5,Senior,,Kotlin,Java / Scala,0,English,,,101-1000,80000,80000,75000,23,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Product Manager,,11,7,Lead / Staff,,Other,,0,"English,Russian",,,1000+,170000,170000,400000,28,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Data Scientist,,5,0,Middle,,Python,"Python,SQL,Google Cloud",0,English,,,101-1000,70000,70000,,26,,,,,,,No,No
+Berlin,,Full-time employee,,Data Scientist,,3,0,Middle,,Python,"Java / Scala,SQL,Google Cloud",0,English,,,1000+,83000,83000,,28,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,15,3,Senior,,SQL,"Python,Java / Scala,Google Cloud,Kubernetes,Docker",1,English,,,up to 10,85000,115000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,QA Engineer,,12,3,Middle,,Java,"Kotlin,Kubernetes",3,"English,Russian",,,1000+,78000,78000,73000,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Backend Developer,,2,1,Junior,,Python,Docker,2,"English,Russian",,,up to 10,45000,45000,45000,28,,,,,,,No,No
+Berlin,,Full-time employee,,Head / Principal / VP,,6,6,Head / Principal,,JavaScript / Typescript," React,NodeJS,Go,Google Cloud,AWS,Kubernetes,Terraform,Docker",0,"English,German",,,11-50,95000,95000,79000,26,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,6,2,Senior,,Python,"Python,Swift,Docker",2,"English,German",,,up to 10,45000,45000,45000,24,,,,,,,No,No
+Stuttgart,,Full-time employee,,Software Engineer,,24,1,Senior,,Go,"Javascript / Typescript, React,NodeJS,AWS,Terraform,Docker",1,English,,,51-100,75000,75000,65000,30,,,,,,,No,No
+Berlin,,Full-time employee,,QA Engineer,,13,7,Middle,,Python,,3,English,,,1000+,67500,83520,83520,28,,,,,,No,Yes,No
+Berlin,,Full-time employee,,ML Engineer,,7,3,Senior,,Python,"Rust,SQL,Kubernetes,Docker",2,English,,,1000+,115000,130000,90000,25,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Engineering Manager,,15,5,Middle,,Go,"Kubernetes,Terraform,Docker",0,English,,,up to 10,120000,120000,110000,24,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,15,7,Senior,,PHP,"Javascript / Typescript,Docker",0,English,,,101-1000,75000,75000,,26,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,QA Engineer,,1,1,Junior,,JavaScript / Typescript,"Angular,NodeJS,SQL,AWS,Docker",0,English,,,1000+,55000,55000,,30,,,,,,,No,100 - 500
+Munich,,Full-time employee,,Software Engineer,,12,3,Senior,,Java,"SQL,AWS,Kubernetes",0,English,,,1000+,95000,119000,80000,30,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Product Manager,,10,0,Senior,,SQL,,0,English,,,101-1000,67000,75000,,28,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,9,2,Senior,,Other,"Kubernetes,Google Cloud,Docker",3,English,elixir,,101-1000,79000,79000,79000,30,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,DevOps,,10,5,Middle,,Other,"Kubernetes,Docker,Other",3,German,Kubernetes,,101-1000,65000,65000,60000,25,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,10,4,Senior,,Other,"Python,SQL,AWS,Terraform,Docker",1,English,Terraform,,101-1000,115000,115000,87000,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Engineering Manager,,15,7,Middle,,PHP,Go,5,English,,,101-1000,120000,132000,99000,29,,,,,,,No,No
+Frankfurt,,Full-time employee,,Network / Security Engineer / System Administrator,,4,4,Middle,,Bash,"Terraform,Docker,Kubernetes",1,German,,,101-1000,62700,62700,57000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,3,3,Middle,,JavaScript / Typescript," React,NodeJS",3,English,,,101-1000,68000,0,60000,Unlimited,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Software Engineer,,13,13,Senior,,Java,"Javascript / Typescript,Angular, React",4,German,,,101-1000,72500,72500,71000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Engineering Manager,,10,8,Lead / Staff,,Go,"Kotlin,Python,PHP,AWS,SQL,Terraform,Kubernetes,Docker",1,English,,,1000+,100000,125000,125000,28,,,,,,,No,No
+Berlin,,Full-time employee,,Data Scientist,,10,6,Senior,,Python,"Python,SQL,AWS,Docker",3,English,,,1000+,105000,125000,120000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,10,3,Senior,,Python,"Java / Scala,Python,Terraform,Docker,Kubernetes,AWS",2,English,,,1000+,84000,6000,0,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,DevOps,,21,3,Senior,,Python,"Docker,Terraform,AWS",1,"English,Russian",,,101-1000,90000,0,72000,28,,,,,,"Yes, I am NOT satisfied with a severance package",Yes,No
+Berlin,,Full-time employee,,Product Manager,,5,2,Senior,,Other,,2,English,,,1000+,86500,86500,65000,26,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,Engineering Manager,,11,7,Lead / Staff,,Other,"Python,Java / Scala,Javascript / Typescript,Go,Kubernetes,AWS,Docker,Terraform",4,English,Kubernetes,,101-1000,110000,110000,95000,28,,,,,,,No,over 1000 euros
+Munich,,Full-time employee,,Software Engineer,,5,0,Senior,,Go,"Go,Kubernetes,Docker",1,"English,Russian",,,1000+,105000,150000,,30,,,,,,,No,500 - 1000
+Other,Vienna,Full-time employee,,Data Scientist,,14,5,Senior,,Python,"SQL,AWS,Azure,Terraform,Docker",3,"English,German",,,1000+,77500,85000,85000,25,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,Software Engineer,,10,4,Senior,,Java,,,English,,,101-1000,85000,85000,,28,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,Software Engineer,,9,6,Lead / Staff,,Kotlin,"Ruby,Java / Scala,Terraform,AWS",3,"English,Russian",,,101-1000,93000,111600,111600,31,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,Engineering Manager,,15,6,Lead / Staff,,PHP,"SQL,AWS,Docker,Terraform,Kubernetes",4,"English,German,Russian",,,11-50,85000,100000,90000,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,3,0,Middle,,Python,"Java / Scala,SQL,Docker,Terraform",0,English,,,1000+,64000,65000,,24,,,,,,,No,100 - 500
+Munich,,Full-time employee,,Software Engineer,,25,2,Middle,,C / C++,,2,English,,,101-1000,70000,72000,68000,29,,,,,,,No,No
+Berlin,,Full-time employee,,Data Scientist,,2,1,Junior,,Python,"Python,SQL,Google Cloud,Docker",0,English,,,1000+,65000,65000,,28,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,DevOps,,15,5,Senior,,Other,"AWS,Google Cloud,Kubernetes,Terraform,Azure,Docker",2,"English,German",AWS,,1000+,85000,90000,82500,30,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,15,2,Middle,,SQL,"Python,Other",0,English,,,1000+,67000,79000,65000,24,,,,,,,No,No
+Munich,,Full-time employee,,QA Engineer,,8,4,Middle,,Java,,4,"English,Russian",,,1000+,67000,70000,67000,30,,,,,,,No,No
+Munich,,Full-time employee,,Backend Developer,,4,4,Middle,,Other,"Java / Scala,Other",4,"German,Russian",Java,,11-50,55,55,45,27,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,8,5,Middle,,Java,Javascript / Typescript,2,English,,,1000+,95000,126000,120000,28,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,Product Manager,,12,0,Lead / Staff,,Other,"Terraform,Other",0,English,Product management toolkit,,1000+,100000,107000,,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Backend Developer,,20,7,Head / Principal,,Ruby,"SQL,Kubernetes,Docker",2,English,,,51-100,88000,0,83000,30,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,15,0,Senior,,JavaScript / Typescript,"NodeJS, React",,"English,Russian",,,1000+,80000,80000,,28,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,8,7,Lead / Staff,,Go,"Javascript / Typescript,NodeJS,AWS,Google Cloud,Kubernetes,Docker",1,English,,,up to 10,70000,75000,85000,28,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,15,6,Senior,,Kotlin,"Java / Scala,Javascript / Typescript,AWS",0,"English,German",,,1000+,135000,150000,90000,28,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,Software Engineer,,10,5,Senior,,JavaScript / Typescript,"Python,Javascript / Typescript,NodeJS, React",2,English,,,11-50,90000,90000,85000,28,,,,,,,No,No
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,11,0,Senior,,Java,"Java / Scala,Javascript / Typescript, React,Kubernetes,Docker,Google Cloud",1,"Russian,English",,,1000+,80000,90000,,30,,,,,,,No,500 - 1000
+Berlin,,Full-time employee,,QA Engineer,,10,10,Middle,,JavaScript / Typescript,,1,German,,,1000+,61500,10000,9000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Mobile Developer,,13,8,Lead / Staff,,Kotlin,"AWS,Kubernetes,Terraform,Docker",7,"English,German",,,101-1000,95000,95000,80000,30,,,,,,No,Yes,100 - 500
+Munich,,Full-time employee,,Software / Solutions Architect,,15,2,Senior,,Other,"AWS,Kubernetes,Docker,Python,Javascript / Typescript,SQL",2,"English,Russian",Cloud,,1000+,130000,145000,110000,28,,,,,,No,Yes,up to 100 euro
+Munich,,Full-time employee,,Head / Principal / VP,,10,5,Head / Principal,,Other,,5,"English,Russian,German",,,101-1000,92000,100000,,23,,,,,,,No,No
+Bonn,,Full-time employee,,Engineering Manager,,11,10,Lead / Staff,,Python,R,0,English,,,1000+,150000,300000,150000,30,,,,,,No,Yes,over 1000 euros
+Berlin,,Full-time employee,,Data Scientist,,10,10,Senior,,Python,"SQL,Google Cloud,Azure,Docker",4,"English,German,Russian",,,1000+,95000,125000,110000,30,,,,,,,No,No
+Other,Dresden,Full-time employee,,Data Scientist,,2,1,Junior,,Python,"Python,Docker,Other",0,English,,,11-50,51600,51600,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Engineering Manager,,11,7,Lead / Staff,,Python,"Google Cloud,Kubernetes,Terraform,Docker,AWS",3,English,,,101-1000,110000,110000,90000,unlimited,,,,,,,No,No
+Dusseldorf,,Full-time employee,,ML Engineer,,6,6,Senior,,Python,"Java / Scala,C / C++,C# / .NET core,Javascript / Typescript,SQL,Google Cloud,Kubernetes,Docker,NodeJS",35,"English,German",,,101-1000,95000,95000,,unlimited,,,,,,No,Yes,500 - 1000
+Berlin,,Full-time employee,,Backend Developer,,11,5,Senior,,JavaScript / Typescript,"NodeJS,Java / Scala,Terraform,AWS",2,English,,,11-50,104400,104400,87000,28,,,,,,,No,No
+Munich,,Full-time employee,,Mobile Developer,,2,2,Junior,,Swift,Python,2,"English,German,Russian",,,101-1000,60000,60000,52000,30,,,,,,,No,No
+Munich,,Full-time employee,,Product Manager,,18,4,Senior,,JavaScript / Typescript,,2,"English,Russian",,,101-1000,77800,77800,,30,,,,,,No,Yes,No
+Munich,,Part-time employee,,Software Engineer,,3,3,Middle,,Java,AWS,3,German,,,101-1000,51900,51900,45500,30,,,,,35,,No,No
+Munich,,Full-time employee,,Software Engineer,,30,5,Senior,,C / C++,,5,English,,,101-1000,80000,82000,0,30,,,,,,No,Yes,No
+Munich,,Full-time employee,,ML Engineer,,4,4,Other,,Python,"Python,C / C++",4,English,,,1000+,57000,57000,54000,31,,,,,,,No,No
+Berlin,,Full-time employee,,Software / Solutions Architect,,16,6,Lead / Staff,,Go,"Kotlin,Ruby,Docker,Terraform,Kubernetes,AWS",2,English,,,1000+,105000,150000,112000,27,,,,,,No,Yes,over 1000 euros
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,18,6,Lead / Staff,,Java,SQL,4,"English,Russian",,,1000+,150000,320000,,30,,,,,,,No,over 1000 euros
+Munich,,Full-time employee,,Engineering Manager,,12,6,Head / Principal,,Java,"Ruby,SQL,AWS,Kubernetes,Terraform,Docker",6,English,,,51-100,125000,137000,95000,28,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,17,5,Senior,,Rust,Java / Scala,0,English,,,101-1000,145000,145000,110000,25,,,,,,,No,500 - 1000
+Munich,,Full-time employee,,Other,Support Engineer,15,1,Middle,,Other,Other,1,English,,,1000+,77000,102000,85000,30,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,16,7,Lead / Staff,,JavaScript / Typescript,"Angular,NodeJS",0,English,,,101-1000,102000,102000,86000,unlimited,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,QA Engineer,,4,4,Senior,,Python,"Docker,Kubernetes",4,English,,,101-1000,61000,2500,,30,,,,,,No,Yes,No
+Hamburg,,Full-time employee,,BI Developer / Data Engineer,,15,5,Senior,,Python,"Ruby,SQL,Other",0,"English,Russian",,,1000+,115000,150000,115000,unlimited,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Software Engineer,,7,7,Senior,,Python,,6,"English,German",,,51-100,75000,0,0,28,,,,,,,No,No
+Munich,,Full-time employee,,Frontend Developer,,11,8,Senior,,JavaScript / Typescript,,1,"English,German",,,1000+,89000,101000,65000,32,,,,,,,No,500 - 1000
+Karlsruhe,,Full-time employee,,Software Engineer,,8,2,Senior,,C# / .NET,"C# / .NET core,.NET,Ruby, React,AWS,Kubernetes,Docker",2,English,,,101-1000,75000,97500,84000,30,,,,,,,No,No
+Munich,,Full-time employee,,Designer (UI/UX),,10,6,Lead / Staff,,Other,Other,2,"English,German",English  German,,51-100,100000,0,0,21,,,,,,No,Yes,No
+Other,Bad Mergentheim,Full-time employee,,Other,SAP Berater,9,7,Middle,,SAP / ABAP,Python,7,"English,German",,,101-1000,46500,49500,,30,,,,,,,No,No
+Stuttgart,,Full-time employee,,Software Engineer,,12,7,Senior,,C / C++,,0,"English,German",,,1000+,94000,117000,85000,30,,,,,,,No,No
+Other,Augsburg,Full-time employee,,Software Engineer,,17,2,Senior,,C# / .NET,C / C++,0,English,,,101-1000,80000,80000,77000,30,,,,,,,No,No
+Berlin,,Full-time employee,,QA Engineer,,10,5,Senior,,JavaScript / Typescript,"Java / Scala,SQL,Docker",0,English,,,11-50,60000,60000,55000,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Engineering Manager,,8,6,Lead / Staff,,Python,,,"German,English",,,1000+,90000,110000,85000,30,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,Software Engineer,,4,0,Middle,,JavaScript / Typescript," React,Javascript / Typescript",0,English,,,1000+,70000,70000,,26,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,Engineering Manager,,18,4,Lead / Staff,,Java,"Java / Scala,Python,SQL",4,English,,,1000+,98000,120000,,28,,,,,,,No,No
+Berlin,,Full-time employee,,Data Scientist,,5,5,Lead / Staff,,Python,"Python,SQL,AWS,Google Cloud,Docker",1,"English,German",,,1000+,77000,77000,72000,27,,,,,,,No,No
+Berlin,,Full-time employee,,Engineering Manager,,10,9,Senior,,C / C++,,1,English,,,101-1000,89000,89000,100000,30,,,,,,No,Yes,No
+Other,Heilbronn,Full-time employee,,Network / Security Engineer / System Administrator,,20,5,Senior,,Other,"Azure,Other",2,"English,German",Citrix,,1000+,80000,80000,80000,29,,,,,,No,Yes,No
+Berlin,,Full-time employee,,DevOps,,8,2,Senior,,Python,"Kubernetes,Terraform,Docker,Google Cloud",1,English,,,101-1000,110000,110000,85000,28,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Engineering Manager,,12,4,,,Kotlin,"AWS,Kubernetes,Terraform",4,English,,,1000+,105000,130000,,27,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Engineering Manager,,15,10,Middle,,Go,,0,English,,,1000+,120000,120000,,30,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,Software Engineer,,22,9,Senior,,Java,"AWS,Kubernetes",1,English,,,1000+,100000,109000,92,27,,,,,,,No,500 - 1000
+Berlin,,Full-time employee,,DevOps,,10,1,Senior,,Other,"Python,Ruby,Javascript / Typescript,SQL,AWS,Terraform,Docker",1,English,,,101-1000,95000,95000,,32,,,,,,,No,No
+Berlin,,Full-time employee,,DevOps,,8,5,Senior,,Go,"Python,Terraform,Docker",1,English,,,1000+,85000,10000,,30,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,20,6,Senior,,Ruby,"Javascript / Typescript,SQL,NodeJS,Other",2,German,,,51-100,75000,0,,30,,,,,,,No,No
+Other,Bochum,Full-time employee,,BI Developer / Data Engineer,,3,3,Senior,,SQL,"Python,Azure,Other",3,"German,English",,,51-100,50000,62000,54000,30,,,,,,,No,No
+Berlin,,Full-time employee,,QA Engineer,,6,0,Senior,,Java,"Docker,Kubernetes,AWS,Java / Scala",0,"English,Russian",,,101-1000,65000,65000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Data Scientist,,2,2,Middle,,Python,"C# / .NET core,SQL,AWS,Azure,Docker",0,German,,,101-1000,52000,58000,45000,30,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Other,Director Data,20,14,Head / Principal,,Python,"Python,SQL",2,"English,German,Russian",,,101-1000,132000,0,132000,30,,,,,,"Yes, I am NOT satisfied with a severance package",Yes,No
+Munich,,Full-time employee,,QA Engineer,,2,2,Junior,,Java,"SQL,Azure,Docker,Java / Scala",2,"English,German,Russian",,,51-100,45000,45000,43000,30,,,,,,,No,No
+Munich,,Full-time employee,,Head / Principal / VP,,15,5,Head / Principal,,C# / .NET,"SQL,AWS,Docker",0,"English,Russian",,,101-1000,98000,98000,72000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Other,Marketing Analyst,3,3,Middle,,Python,"SQL,R,Google Cloud,AWS",,English,,,1000+,60000,60000,60000,24,,,,,,,No,100 - 500
+Cologne,,Full-time employee,,Data Scientist,,4,4,Middle,,Python,"Python,SQL,Azure,Kubernetes,Docker",4,"German,English",,,101-1000,65000,0,63000,28,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Product Manager,,16,10,Senior,,Other,Other,1,English,,,1000+,96000,98000,90000,27,,,,,,No,Yes,100 - 500
+Stuttgart,,Full-time employee,,ML Engineer,,5,4,Junior,,Python,"SQL,Other",4,"English,German",,,1000+,60000,60000,60000,30,,,,,,,No,No
+Frankfurt,,Full-time employee,,Data Scientist,,5,1,Middle,,Python,"R,SQL,AWS,Other",1,"English,German,Russian",,,1000+,47900,47900,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,3,3,Middle,,JavaScript / Typescript,React,3,English,,,1000+,75000,2400,63000,30,,,,,,,No,No
+Other,Leipzig,Full-time employee,,ML Engineer,,2,1,Junior,,Python,"Python,Go,AWS,Azure,Kubernetes,Terraform,Docker,SQL,Other",1,English,,,101-1000,60000,60000,45000,28,,,,,,,No,No
+Cologne,,Full-time employee,,Software Engineer,,16,8,Senior,,C / C++,"Python,SQL",3,English,,,101-1000,81200,82800,78000,35,,,,,,,No,No
+Berlin,,Full-time employee,,DevOps,,6,6,Lead / Staff,,Go,"Kubernetes,Terraform,Docker",0,"English,German",,,1000+,120000,128400,,,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,8,1,Senior,,Python,"Kubernetes,Terraform,AWS,SQL,Python,Docker",1,English,,,1000+,82000,90000,,,,,,,,,No,500 - 1000
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,8,8,Senior,,SQL,"Python,Google Cloud,AWS,Terraform,SQL",0,English,,,1000+,90000,102500,77000,27,,,,,,No,Yes,No
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,4,4,Middle,,Python,"SQL,Go,Kubernetes",0,English,,,101-1000,70000,0,68000,30,,,,,,,No,500 - 1000
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,3,3,Senior,,Python,"SQL,AWS,Docker",2,English,,,101-1000,75000,75000,,,,,,,,No,Yes,over 1000 euros
+Berlin,,Full-time employee,,Software Engineer,,10,1,Senior,,JavaScript / Typescript,,1,"English,Russian",,,1000+,71000,71000,,32,,,,,,,No,No
+Berlin,,Full-time employee,,Data Scientist,,5,0,Head / Principal,,Python,Python,2,"English,Russian",,,51-100,120000,140000,,,,,,,,,No,No
+Berlin,,Full-time employee,,Engineering Manager,,9,7,Lead / Staff,,Kotlin,"Python,Java / Scala,Kotlin",3,English,,,1000+,100000,140000,100000,27,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,Software Engineer,,10,2,Lead / Staff,,JavaScript / Typescript," React,NodeJS",0,"English,Russian",,,1000+,120000,35000,75000,Unlimited,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,3,3,Middle,,SQL,"SQL,R,Azure,SAP / ABAP",1,English,,,1000+,60000,66000,48000,30,,,,,,"Yes, I am NOT satisfied with a severance package",Yes,No
+Frankfurt,,Full-time employee,,Tech Lead / Team Lead,,8,7,Lead / Staff,,JavaScript / Typescript,"Angular,NodeJS,Azure",2,"English,Russian",,,51-100,105000,115000,85000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,10,10,Lead / Staff,,C# / .NET,"Python,Javascript / Typescript,SQL,AWS,Terraform,Docker,Angular, React,NodeJS,Kubernetes",1,"English,German",,,1000+,125000,50000,150000,30,,,,,,,No,100 - 500
+Stuttgart,,Full-time employee,,Software / Solutions Architect,,8,8,Senior,,C / C++,C / C++,1,"English,German",,,1000+,84000,90000,,30,,,,,,,No,No
+Hamburg,,Full-time employee,,Network / Security Engineer / System Administrator,,20,1,Middle,,Other,,1,"English,German,Russian",,,11-50,55000,55000,55000,27,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,Engineering Manager,,15,8,Lead / Staff,,Kotlin,"Java / Scala,Javascript / Typescript,SQL,Kubernetes",8,English,,,1000+,100000,120000,92000,30,,,,,,,No,500 - 1000
+Berlin,,Full-time employee,,Backend Developer,,4,0,Middle,,Kotlin,"Python,Go",0,"English,Russian",,,101-1000,78000,78000,,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,5,5,Middle,,Python,"Python,SQL,Azure",1,German,,,1000+,73000,80000,65000,28,,,,,,,No,No
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,15,5,Lead / Staff,,JavaScript / Typescript," React,NodeJS,SQL,AWS,Kubernetes,Docker",5,"English,Russian",,,101-1000,89000,0,,28,,,,,,No,Yes,No
+Berlin,,Full-time employee,,ML Engineer,,6,1,Senior,,Python,"Python,AWS,Kubernetes,Docker,Terraform,SQL,Other",1,English,,,1000+,84000,90000,,27,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Backend Developer,,3,3,Middle,,Java,"Javascript / Typescript,Docker",2,German,,,101-1000,48000,50000,45000,30,,,,,,,No,No
+Hamburg,,Full-time employee,,Head / Principal / VP,,18,7,Head / Principal,,Java,"Java / Scala,Kotlin,NodeJS,Javascript / Typescript, React,Kubernetes,AWS",5,English,,,101-1000,85000,105000,100000,30,,,,,,,No,100 - 500
+Other,,Full-time employee,,BI Developer / Data Engineer,,4,4,Senior,,Python,SQL,0,"English,German",,,1000+,95000,95000,90000,30,,,,,,,No,No
+Hamburg,,Full-time employee,,Data Scientist,,6,6,Middle,,Python,"SQL,Docker,AWS,Terraform",1,"English,German",,,up to 10,75000,75000,60000,30,,,,,,,No,100 - 500
+Mannheim,,Full-time employee,,BI Developer / Data Engineer,,7,5,Middle,,SQL,"Python,SQL,AWS,Terraform",1,"English,German",,,up to 10,68000,68000,60000,30,,,,,,,No,100 - 500
+Munich,,Full-time employee,,Other,Business Analyst,12,6,Senior,,JavaScript / Typescript,Java / Scala,1,English,,,1000+,80000,83000,72000,36,,,,,,,No,No
+Karlsruhe,,Full-time employee,,Software Engineer,,10,6,Senior,,Java,"Kubernetes,Docker",0,English,,,101-1000,90000,91000,75000,30,,,,,,,No,No
+Munich,,Full-time employee,,Tech Lead / Team Lead,,10,1,Lead / Staff,,C / C++,,3,"English,Russian",,,1000+,80000,80000,,30,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Software Engineer,,5,3,Senior,,Scala,"Azure,Kubernetes,Terraform,Docker",2,English,,,101-1000,89000,0,76000,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Data Scientist,,5,1,Senior,,Python,"Java / Scala,Google Cloud,Kubernetes,Docker",1,"English,Russian",,,1000+,95000,107500,60000,28,,,,,,No,Yes,500 - 1000
+Berlin,,Full-time employee,,ML Engineer,,10,7,Senior,,Python,,3,English,,,1000+,85000,110000,120000,25,,,,,,No,Yes,100 - 500
+Augsburg,,Full-time employee,,Backend Developer,,3,3,Middle,,C# / .NET,"SQL,.NET,C# / .NET core,Javascript / Typescript",1,German,,,51-100,50000,50000,36000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,3,1,Middle,,Python,Python,0,English,,,1000+,58000,9000,,,,,,,,,No,500 - 1000
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,12,4,Head / Principal,,Scala,"Python,Java / Scala,AWS,Kubernetes,Docker",0,English,,,101-1000,135000,185,150,27,,,,,,No,Yes,No
+Cologne,,Full-time employee,,Data Scientist,,1,1,Middle,,Python,"SQL,Google Cloud,Java / Scala,Python",,"English,German",,,1000+,67000,73000,,,,,,,,,No,No
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,20,6,Lead / Staff,,Swift,"Java / Scala,Javascript / Typescript,Other",5,"English,Russian,German",,,101-1000,85000,86500,85000,28,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,11,0,Lead / Staff,,JavaScript / Typescript,"Other,AWS,NodeJS, React,Angular,Swift,Kotlin,Python",0,"English,Russian",,,101-1000,96000,96000,,unlimited,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,9,1,Senior,,JavaScript / Typescript,"Javascript / Typescript,NodeJS,Java / Scala",8,"English,Russian",,,101-1000,80000,86000,,28,,,,,,,No,No
+Dusseldorf,,Full-time employee,,QA Engineer,,3,2,Middle,,Other,Javascript / Typescript,2,English,,,101-1000,50000,50000,36000,Unlimited,,,,,,No,Yes,500 - 1000
+Berlin,,Full-time employee,,Head / Principal / VP,,12,12,Head / Principal,,Other,,1,"English,German",,,101-1000,80000,7000,68000,25,,,,,,,No,up to 100 euro
+Hamburg,,Full-time employee,,Software Engineer,,13,9,Senior,,Kotlin,"Java / Scala,SQL",4,"English,German",,,101-1000,76000,77000,71000,28,,,,,,,No,No
+Karlsruhe,,Full-time employee,,ML Engineer,,4,4,Middle,,Java,"Python,Kubernetes,AWS,Docker",0,"English,German",,,1000+,77000,77000,63000,30,,,,,,,No,100 - 500
+Munich,,Full-time employee,,Software Engineer,,7,1,Senior,,Kotlin,,1,English,,,101-1000,90000,90000,,30,,,,,,,No,100 - 500
+Berlin,,Working student,,Data Scientist,,1,1,Other,Working student,Python,SQL,0,English,,,1000+,16200,16200,,,,,,,,,No,No
+Berlin,,Full-time employee,,QA Engineer,,4,4,Middle,,JavaScript / Typescript,,0,English,,,11-50,62000,65000,50000,30,,,,,,,No,No
+Hamburg,,Full-time employee,,Frontend Developer,,8,4,Middle,,JavaScript / Typescript," React,NodeJS,Other",2,"German,English",,,101-1000,63200,63200,63000,30,,,,,,,No,No
+Darmstadt,,Full-time employee,,Software Engineer,,13,12,Senior,,Java,,0,English,,,1000+,75000,95000,75000,30,,,,,,,No,up to 100 euro
+Berlin,,Part-time employee,,Data Scientist,,6,2,Middle,,Python,"Python,SQL",2,English,,,51-100,42000,42000,36000,25,,,,,20,No,Yes,100 - 500
+Other,Amberg,Full-time employee,,Data Scientist,,2,2,Middle,,Python,"Python,SQL,Google Cloud,Kubernetes,Docker",2,English,,,1000+,51000,52500,48000,30,,,,,,,No,over 1000 euros
+Other,Moscow,Full-time employee,,Software Engineer,,3,0,Middle,,Python,,0,"Russian,English",,,1000+,48000,52000,37000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Product Manager,,10,0,Senior,,Other,"Python,SQL",0,"English,Russian",Product manager :),,101-1000,72000,80000,,30,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,15,1,Senior,,C / C++,C# / .NET core,0,English,,,51-100,95000,95000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,15,5,Lead / Staff,,Python,"Python,SQL,AWS,Terraform",0,English,,,101-1000,140000,140000,100000,27,,,,,,,No,No
+Munich,,Full-time employee,,Frontend Developer,,15,1,Senior,,JavaScript / Typescript,"PHP, React,Docker",1,"English,Russian",,,1000+,102000,40000,92000,28,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Software Engineer,,3,3,Junior,,Scala,,0,"English,Russian",,,1000+,55000,55000,,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Frontend Developer,,10,0,Senior,,JavaScript / Typescript,"Javascript / Typescript, React,NodeJS",0,"English,Russian",,,101-1000,85000,0,,,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,5,3,Lead / Staff,,Ruby,"Python,Javascript / Typescript,SQL,AWS",2,English,,,51-100,90000,91000,77000,28,,,,,,No,Yes,up to 100 euro
+Berlin,,Full-time employee,,Data Scientist,,4,4,Middle,,Python,AWS,0,English,,,1000+,125000,165000,50000,24,,,,,,No,Yes,No
+Karlsruhe,,Full-time employee,,Software / Solutions Architect,,15,8,Head / Principal,,C# / .NET,"Javascript / Typescript,Angular,.NET,SQL,Azure,Kubernetes,Docker",1,English,,,51-100,79000,79000,79000,30,,,,,,,No,No
+Aachen,,Full-time employee,,Software Engineer,,3,3,Middle,,Java,Python,3,"English,German",,,1000+,45000,45000,42000,30,,,,,,,No,No
+Munich,,Self-employed (freelancer),,Software / Solutions Architect,,20,20,Senior,,Java,"Java / Scala,Javascript / Typescript,NodeJS",1,"English,German,Russian",,,1000+,,,,,102,1760,25,0,,,No,No
+Munich,,Full-time employee,,Scrum Master / Agile Coach,,25,4,Lead / Staff,,Other,Other,1,English,,,101-1000,100000,115000,87000,30,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Software Engineer,,22,4,Senior,,JavaScript / Typescript,"Java / Scala,Javascript / Typescript,PHP,Docker,Kubernetes,Azure,AWS,Go",0,"German,English",,,101-1000,78000,78000,72000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,2,1,Middle,,Python,"Python,Java / Scala,PHP,AWS",1,English,,,up to 10,45000,45000,,,,,,,,,No,100 - 500
+Munich,,Full-time employee,,Software Engineer,,14,8,Senior,,Python,"C / C++,Rust",2,English,,,51-100,110000,0,95,30,,,,,,,No,No
+Berlin,,Full-time employee,,Product Manager,,6,3,Lead / Staff,,Other,Other,1,"English,Russian",,,up to 10,75000,75000,85000,24,,,,,,,No,No
+Berlin,,Full-time employee,,QA Engineer,,3,0,Middle,,C# / .NET,Other,0,"English,Russian",,,1000+,65000,65000,10500,31,,,,,,,No,No
+Munich,,Full-time employee,,Product Manager,,15,7,Middle,,Other,,0,English,,,101-1000,90000,90000,67000,30,,,,,,,No,No
+Stuttgart,,Full-time employee,,BI Developer / Data Engineer,,1,1,Junior,,Python,"Python,SQL",0,"English,German",,,1000+,47500,47500,0,28,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Engineering Manager,,20,8,Middle,,Python,"SQL,Google Cloud,Kubernetes,Docker,Terraform",2,English,,,101-1000,86000,110000,83000,24,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Engineering Manager,,8,8,Head / Principal,,SQL,"Python,Terraform",3,English,,,101-1000,130000,175000,150000,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Backend Developer,,5,3,Senior,,Kotlin,"Kubernetes,Terraform,Docker,Other",1,English,,,101-1000,105000,120000,82000,28,,,,,,No,Yes,No
+Munich,,Full-time employee,,Tech Lead / Team Lead,,15,10,Lead / Staff,,JavaScript / Typescript,Other,8,"German,English",,,1000+,90000,0,0,30,,,,,,,No,No
+Munich,,Full-time employee,,Tech Lead / Team Lead,,10,6,Lead / Staff,,C# / .NET,"Javascript / Typescript,AWS,Docker",4,English,,,1000+,72000,77000,68000,30,,,,,,,No,No
+Other,Freiburg,Full-time employee,,Backend Developer,,5,4,Middle,,Java,"Docker,Kubernetes,AWS,SQL",4,English,,,101-1000,44000,44000,42000,28,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,2,2,Middle,,Python,"SQL,AWS,Google Cloud,Other",2,"German,English",,,101-1000,45000,45000,39000,27,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,3,3,Middle,,JavaScript / Typescript," React,Ruby",2,English,,,1000+,56000,56000,50000,28,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,8,8,Lead / Staff,,SQL,Python,1,English,,,101-1000,55000,66000,66000,28,,,,,,"Yes, I am NOT satisfied with a severance package",Yes,No
+Munich,,Full-time employee,,Backend Developer,,14,4,Senior,,Java,,8,"Russian,English",,,101-1000,89,89,72,28,,,,,,"Yes, I am NOT satisfied with a severance package",Yes,No
+Berlin,,Full-time employee,,Network / Security Engineer / System Administrator,,10,4,Senior,,Other,"AWS,Kubernetes,Terraform,Docker,Python,Javascript / Typescript",0,English,,,1000+,110000,140000,80000,28,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,Software Engineer,,10,10,Senior,,Python,"PHP,Javascript / Typescript,NodeJS,SQL,SAP / ABAP,Docker",0,"English,German",,,up to 10,60000,60000,48000,27,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,15,6,Senior,,JavaScript / Typescript,React,2,English,,,1000+,78500,100000,65000,unlimited,,,,,,,No,500 - 1000
+Berlin,,Full-time employee,,ML Engineer,,4,4,Middle,,Python,"Google Cloud,Kubernetes,Terraform,Docker",1,English,,,101-1000,80000,90000,70000,28,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Other,Senior Embedded System Engineer,7,2,Senior,,C / C++,"Java / Scala,Python,C / C++",0,English,,,up to 10,68000,71500,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,20,5,Lead / Staff,,Python,"Python,Javascript / Typescript,Go,Docker,SQL",5,"English,German,Russian",,,11-50,74400,11000,6000,28,,,,,,,No,over 1000 euros
+Dresden,,Full-time employee,,Data Scientist,,4,0,Middle,,Python,,0,English,,,51-100,60000,60000,,30,,,,,,,No,No
+Augsburg,,Full-time employee,,Software Engineer,,10,5,Senior,,JavaScript / Typescript,"Angular,Java / Scala, React,NodeJS,AWS",3,"German,English",,,1000+,72000,80000,70000,30,,,,,,,No,100 - 500
+Munich,,Full-time employee,,Data Scientist,,4,1,Middle,,Python,"AWS,Kubernetes,Docker,Other",1,"English,German",,,101-1000,75000,0,0,28,,,,,,,No,No
+Stuttgart,,Full-time employee,,Data Scientist,,3,1,Senior,,Python,"SQL,Docker",0,English,,,101-1000,72000,78000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Product Manager,,7,4,Senior,,Other,,2,English,Product Manager,,51-100,85000,85000,80000,28,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,10,8,Lead / Staff,,SQL,,2,English,,,51-100,70000,70000,66000,23,,,,,,No,Yes,up to 100 euro
+Berlin,,Full-time employee,,Software Engineer,,4,0,Senior,,Rust,"C / C++,Docker",0,"English,Russian",,,11-50,60000,60000,,20,,,,,,"Yes, I am NOT satisfied with a severance package",Yes,No
+Other,Saarbrücken,Full-time employee,,Other,Research assistant,0,0,Junior,,C / C++,Docker,2,English,,,51-100,38000,38000,,30,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,12,7,Senior,,Go,PHP,7,English,,,1000+,85000,85000,80000,30,,,,,,,No,No
+Karlsruhe,,Full-time employee,,Backend Developer,,23,9,Senior,,Java,"SQL,Docker",9,"English,German",,,11-50,60000,60000,53000,30,,,,,,No,Yes,No
+Hamburg,,Self-employed (freelancer),,Software Engineer,,13,9,Senior,,Java,"Javascript / Typescript,Python,AWS,Terraform,Docker,Other",15,"English,German",,,101-1000,,,,,87,1650,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,5,5,Middle,,Python,"Javascript / Typescript,Go,Perl,AWS,Docker",2,English,,,101-1000,60000,85000,60000,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,ML Engineer,,10,5,Senior,,Python,"AWS,Python",5,English,,,1000+,126000,126000,105000,30,,,,,,,No,up to 100 euro
+Munich,,Full-time employee,,Head / Principal / VP,,20,20,Head / Principal,,Java,"Python,Javascript / Typescript,NodeJS,R,SQL,Perl,Docker,Kubernetes",2,"English,German",,,101-1000,120000,120000,108000,30,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,4,1,Middle,,JavaScript / Typescript,"Java / Scala, React,NodeJS,AWS",1,English,,,101-1000,83000,87150,66000,30,,,,,,,No,No
+Stuttgart,,Full-time employee,,ML Engineer,,1,1,Junior,,Python,Other,1,English,,,1000+,62500,62500,,30,,,,,,"Yes, I am NOT satisfied with a severance package",Yes,100 - 500
+Berlin,,Full-time employee,,Software / Solutions Architect,,12,6,Head / Principal,,PHP,"AWS,Docker,Terraform,PHP,Javascript / Typescript,Angular, React",5,"English,German,Russian",,,101-1000,116000,130000,110000,Unlimited,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,9,4,Senior,,Other,"Python,Terraform,Docker,Kubernetes,Google Cloud,Rust,Go",1,"English,Russian",,,51-100,105000,105000,78000,28,,,,,,,No,No
+Munich,,Full-time employee,,Software / Solutions Architect,,8,0,Senior,,C# / .NET,,6,"English,Russian",,,101-1000,65000,70000,,30,,,,,,No,Yes,up to 100 euro
+Munich,,Full-time employee,,Engineering Manager,,25,5,Lead / Staff,,Swift,Javascript / Typescript,5,English,,,11-50,90000,4000,82000,30,,,,,,,No,No
+Aachen,,Full-time employee,,Software / Solutions Architect,,10,6,Senior,,Python,Azure,0,"English,German",,,1000+,74000,80000,74000,30,,,,,,,No,No
+Munich,,Full-time employee,,DevOps,,15,5,Senior,,Other,Other,2,"English,Russian",,,1000+,112000,125000,,30,,,,,,,No,500 - 1000
+Munich,,Full-time employee,,Software / Solutions Architect,,17,2,Lead / Staff,,C# / .NET,"C# / .NET core,SQL,Azure",1,"English,German",,,1000+,107900,118500,118500,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Data Scientist,,1,1,Junior,,Python,"SQL,Azure",0,German,,,1000+,63000,70000,56000,30,,,,,,,No,No
+Munich,,Full-time employee,,Head / Principal / VP,,15,1,Head / Principal,,C# / .NET,Javascript / Typescript,15,"English,Russian",,,101-1000,120000,125000,,35,,,,,,,No,No
+Munich,,Full-time employee,,Product Manager,,10,1,Middle,,Other,,2,"English,Russian",,,101-1000,75000,75000,,25,,,,,,,No,No
+Augsburg,,Full-time employee,,Software / Solutions Architect,,12,1,Head / Principal,,NodeJS,"Javascript / Typescript,NodeJS,AWS,Kubernetes,Terraform,Docker,Other,Go",8,"English,Russian",,,1000+,148000,195000,155000,30,,,,,,No,Yes,No
+Munich,,Full-time employee,,Software / Solutions Architect,,14,11,Middle,,Other,"Azure,Kubernetes,Terraform,Docker",2,"English,German,Russian",Azure,,1000+,125000,140000,140000,30,,,,,,,No,No
+Munich,,Full-time employee,,Tech Lead / Team Lead,,8,1,Lead / Staff,,C# / .NET,"Javascript / Typescript,Python",1,English,,,51-100,92000,103000,,20,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,6,4,Senior,,PHP,"PHP,Javascript / Typescript,Terraform,AWS",1,English,,,101-1000,78000,78000,73000,29,,,,,,,No,No
+Rosenheim,,Full-time employee,,Software Engineer,,10,3,Middle,,C / C++,Java / Scala,3,English,,,1000+,100000,140000,130000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,1,1,Junior,,Java,,1,English,,,1000+,72000,85000,,28,,,,,,No,Yes,No
+Munich,,Full-time employee,,Software Engineer,,10,4,Senior,,C# / .NET,"Javascript / Typescript, React",4,English,,,1000+,72000,4000,,30,,,,,,,No,No
+Munich,,Full-time employee,,Other,Technical Program Manager,8,0,Lead / Staff,,Python,"Python,AWS,Google Cloud,Azure,Kubernetes,Terraform,Docker",3,"English,Russian",,,101-1000,130000,130000,35000,Unlimited,,,,,,No,Yes,No
+Munich,,Full-time employee,,Product Manager,,11,2,Senior,,SQL,Other,2,English,,,1000+,80000,88000,75000,30,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,8,0,Middle,,Go,"Python,R,SQL",6,"English,Russian",,,1000+,94500,94500,,30,,,,,,,No,100 - 500
+Stuttgart,,Full-time employee,,Software Engineer,,4,4,Middle,,Java,Docker,0,"English,German",,,1000+,73000,75000,57000,30,,,,,,,No,100 - 500
+Munich,,Full-time employee,,Software Engineer,,15,5,Senior,,PHP,"Javascript / Typescript,Docker",3,"English,Russian",,,101-1000,71500,71500,,28,,,,,,,No,No
+Darmstadt,,Full-time employee,,BI Developer / Data Engineer,,1,1,Middle,,SQL,,1,"English,Russian",,,11-50,60000,64000,,27,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Software Engineer,,10,7,Middle,,Python,"Python,SQL,Docker",3,"English,German",,,1000+,60000,70000,68000,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Engineering Manager,,11,7,Lead / Staff,,Java,"Kotlin,NodeJS,Angular,SQL,Azure,Kubernetes,Docker",3,English,,,51-100,98000,98000,80000,30,,,,,,,No,No
+Munich,,Full-time employee,,Other,Cybersecurity auditor,4,1,Junior,,Other,,0,English,Cybersecurity,,1000+,68000,78000,,30,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Head / Principal / VP,,15,5,Head / Principal,,Other,Other,0,English,,,101-1000,95000,95000,75000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software / Solutions Architect,,8,8,Senior,,Java,"Java / Scala,Javascript / Typescript,NodeJS,Go,SQL,Google Cloud,Kubernetes,Terraform",3,"English,German,Russian",,,1000+,68000,75000,72000,30,,,,,,,No,500 - 1000
+Berlin,,Full-time employee,,Product Manager,,7,5,Senior,,Other,Other,1,English,,,101-1000,75000,75000,65000,25,,,,,,"Yes, I am NOT satisfied with a severance package",Yes,100 - 500
+Munich,,Full-time employee,,Software Engineer,,10,4,Senior,,Swift,"Python,Kotlin,Javascript / Typescript,Docker",0,"English,German",,,1000+,80000,85000,75000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Other,Data Journalist,4,4,Senior,,Python,"Javascript / Typescript,R,SQL,Kubernetes,Google Cloud",0,German,,,101-1000,77000,77000,50000,unlimited,,,,,,,No,over 1000 euros
+Munich,,Full-time employee,,Software Engineer,,21,9,Middle,,Java,SQL,6,"German,Russian",,,1000+,53000,56000,54000,30,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,15,7,Lead / Staff,,SQL,"Python,Docker,Terraform,AWS",0,English,,,1000+,120000,120000,100000,30,,,,,,No,Yes,No
+Munich,,Full-time employee,,Designer (UI/UX),,2,1,Junior,,Other,Other,0,"English,German",,,101-1000,42000,0,,30,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Frontend Developer,,5,0,Middle,,JavaScript / Typescript," React,NodeJS,Google Cloud,Docker",0,English,,,1000+,74000,74000,,30,,,,,,,No,No
+Munich,,Full-time employee,,Other,Technical writer,10,0,Senior,,Go,"Java / Scala,SQL,Other",0,"English,Russian",,,1000+,76000,10000,,30,,,,,,No,Yes,over 1000 euros
+Berlin,,Full-time employee,,Data Scientist,,2,2,Middle,,Python,"SQL,AWS,Kubernetes",2,English,,,51-100,57000,60000,54000,30,,,,,,No,Yes,100 - 500
+Munich,,Full-time employee,,Other,IT Consultant,2,2,Junior,,Other,"Javascript / Typescript,Other",0,German,,,101-1000,55000,55000,,30,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,Engineering Manager,,13,4,Senior,,JavaScript / Typescript," React,NodeJS,Javascript / Typescript",4,English,,,101-1000,85000,85000,,29,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,5,5,Senior,,SQL,"Docker,Python",1,English,,,11-50,79000,83000,70000,22,,,,,,,No,No
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,4,2,Middle,,Python,"Python,SQL,AWS,Kubernetes,Terraform,Docker",1,English,,,101-1000,65000,65000,60000,30,,,,,,No,Yes,No
+Frankfurt,,Full-time employee,,Head / Principal / VP,,31,31,Head / Principal,,Other,,2,"English,German",,,51-100,90000,5000,85000,30,,,,,,No,Yes,No
+Munich,,Full-time employee,,Backend Developer,,3,0,Middle,,Java,,0,English,,,1000+,67000,0,,28,,,,,,,No,No
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,15,1,Lead / Staff,,C# / .NET,"C# / .NET core,Javascript / Typescript,.NET,SQL,Google Cloud,Kubernetes,Terraform,Docker",1,English,,,51-100,78000,78000,75000,26,,,,,,,No,No
+Berlin,,Full-time employee,,Data Scientist,,6,6,Middle,,Python,"Docker,AWS,Rust,SQL,Go",1,English,,,1000+,87600,140000,127000,28,,,,,,,No,500 - 1000
+Berlin,,Full-time employee,,Product Manager,,5,3,Senior,,Other,,5,"English,Russian",,,101-1000,67000,2000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Mobile Developer,,5,0,Senior,,Kotlin,,0,"English,Russian",,,101-1000,75000,80000,,30,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,Software Engineer,,4,0,Middle,,Kotlin,"Java / Scala,Kotlin,SQL",0,English,,,101-1000,70000,70000,,28,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Data Scientist,,4,0,Middle,,SQL,Python,0,English,,,101-1000,73000,74000,,30,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,Software Engineer,,10,3,Senior,,Java,"Java / Scala,Kotlin,AWS,Kubernetes,Docker,Terraform",1,English,,,1000+,108600,108600,86000,28,,,,,,,No,over 1000 euros
+Other,,Full-time employee,,BI Developer / Data Engineer,,3,3,Middle,,Python,,1,"German,English",,,11-50,140000,140000,,,,,,,,,No,No
+Berlin,,Full-time employee,,Data Scientist,,1,1,Junior,,Python,"SQL,AWS",0,English,,,11-50,45000,52000,,24,,,,,,,No,100 - 500
+Munich,,Full-time employee,,Software Engineer,,17,4,Senior,,Java,Other,4,English,,,1000+,100000,210000,144000,30,,,,,,,No,100 - 500
+Frankfurt,,Full-time employee,,Backend Developer,,8,3,Lead / Staff,,Python,"Python,SQL,Azure,Kubernetes,Docker",1,English,,,11-50,90000,99000,70000,28,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,ML Engineer,,12,4,Senior,,Python,"Docker,Terraform,Kubernetes,AWS,SQL,Other",1,English,,,1000+,95000,95000,85000,27,,,,,,,No,100 - 500
+Hamburg,,Full-time employee,,Tech Lead / Team Lead,,12,12,Other,,C# / .NET,"Python,Javascript / Typescript,Azure",1,"German,English",,,101-1000,75000,85000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Head / Principal / VP,,20,20,Head / Principal,,Bash,"Other,Python",4,"English,German",,,101-1000,145000,185000,175000,26,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Software Engineer,,6,4,Senior,,Kotlin,"Java / Scala,Javascript / Typescript",4,English,,,1000+,83000,84000,75000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Product Manager,,8,8,Senior,,Other,,0,"English,German",,,101-1000,83000,91000,70000,28,,,,,,,No,No
+Berlin,,Full-time employee,,Frontend Developer,,8,15,Senior,,JavaScript / Typescript," React,NodeJS,Docker",15,"English,Russian",,,11-50,82000,82000,62000,Unlimited,,,,,,No,Yes,500 - 1000
+Berlin,,Full-time employee,,DevOps,,10,8,Senior,,Python,"Kubernetes,Terraform,Docker,AWS,Other",2,English,,,101-1000,93000,0,89000,30,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,DevOps,,17,6,Lead / Staff,,Other,"Go,Google Cloud,Kubernetes,Terraform,Docker",4,"English,Russian",,,101-1000,105000,105000,92000,unlimited,,,,,,,No,up to 100 euro
+Frankfurt,,Full-time employee,,Other,SAP Consultant,5,5,Senior,,SAP / ABAP,,3,"German,English,Russian",,,1000+,72000,75600,69000,30,,,,,,,No,No
+Munich,,Full-time employee,,Other,Technical Writer,4,2,Senior,,Other,,1,"English,German,Russian",-,,101-1000,66000,66000,60000,30,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,4,4,Middle,,C / C++,C / C++,1,German,,,101-1000,70000,70000,,30,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,15,0,Middle,,C / C++,"C / C++,Python,Other",0,English,,,1000+,99000,150000,,30,,,,,,,No,No
+Munich,,Full-time employee,,Frontend Developer,,8,2,Senior,,JavaScript / Typescript,"Javascript / Typescript,Python,NodeJS, React,AWS,Docker",1,English,,,101-1000,95000,95000,95000,25,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,Backend Developer,,6,1,Senior,,Go,"SQL,Docker",1,English,,,11-50,60000,66000,,25,,,,,,No,Yes,No
+Frankfurt,,Full-time employee,,DevOps,,20,4,Senior,,Bash,"Docker,Terraform,Kubernetes,Google Cloud,Go",1,"English,Russian",,,1000+,82000,92000,75000,30,,,,,,,No,No
+Berlin,,Self-employed (freelancer),,ML Engineer,,5,5,Senior,,Python,"SQL,AWS,Docker,Terraform",0,"English,German",,,up to 10,,,,,100,1200,65,50,,,No,No
+Munich,,Full-time employee,,Designer (UI/UX),,7,4,Middle,,Other,,1,English,,,101-1000,60000,65000,47000,30,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Data Scientist,,10,10,Senior,,Python,SQL,2,"German,English,Russian",,,1000+,80600,90000,87778,30,,,,,,,No,100 - 500
+Frankfurt,,Full-time employee,,Software Engineer,,9,1,Senior,,JavaScript / Typescript,"Angular,SQL",1,English,,,51-100,70000,74000,,30,,,,,,,No,No
+Munich,,Full-time employee,,Other,QA Manager,15,7,Lead / Staff,,Other,,,"English,German,Russian",,,51-100,80000,80000,75000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Other,Analyst,5,4,Senior,,SQL,Python,0,English,,,1000+,65000,67000,67000,30,,,,,,No,Yes,500 - 1000
+Munich,,Full-time employee,,Tech Lead / Team Lead,,20,5,Lead / Staff,,Other,"SQL,Other",11,"English,German",,,1000+,110000,112000,105000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Product Manager,,10,3,Senior,,Other,,1,English,,,101-1000,75000,75000,70000,28,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Software Engineer,,11,5,Senior,,Java,"SQL,Google Cloud,Kubernetes,Terraform,Docker",2,English,,,1000+,112000,150000,160000,unlimited,,,,,,No,Yes,No
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,10,7,Senior,,Java,"Python,SQL,Terraform,Docker,Kubernetes,Google Cloud",0,English,,,1000+,105600,25000,65000,25,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,Software Engineer,,5,0,Middle,,Java,"Java / Scala,Kotlin,SQL,Kubernetes,Docker",0,English,,,1000+,70000,0,,28,,,,,,,No,500 - 1000
+Berlin,,Full-time employee,,DevOps,,1,0,Junior,,Bash,"Kubernetes,Terraform,AWS",0,"English,German",,,1000+,52000,0,,30,,,,,,,No,No
+Munich,,Full-time employee,,BI Developer / Data Engineer,,14,2,Lead / Staff,,SQL,"Python,C# / .NET core,Kubernetes,AWS,Azure,Terraform,Docker,SQL",2,"English,German,Russian",,,101-1000,85000,85000,85000,28,,,,,,,No,No
+Other,,Full-time employee,,Software Engineer,,20,3,Senior,,Python,"Python,C / C++,SQL,Go",0,English,,,1000+,127000,190000,70000,32,,,,,,No,Yes,over 1000 euros
+Munich,,Full-time employee,,DevOps,,12,6,Head / Principal,,Other,"Kubernetes,Terraform,Docker",2,English,AWS,,101-1000,122000,122000,105000,30,,,,,,,No,No
+Regensburg,,Full-time employee,,Software / Solutions Architect,,13,13,Lead / Staff,,C# / .NET,"Javascript / Typescript,C# / .NET core,SQL",9,German,,,101-1000,78000,88000,72000,30,,,,,,,No,No
+Munich,,Full-time employee,,QA Engineer,,5,0,Senior,,Java,SQL,0,"English,Russian",,,1000+,65000,70000,,28,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,8,1,Senior,,Java,"Kotlin,Javascript / Typescript,SQL",0,"English,German,Russian",,,1000+,75000,80000,,,,,,,,,No,over 1000 euros
+Nuremberg,,Full-time employee,,Backend Developer,,10,7,Middle,,JavaScript / Typescript,"NodeJS,AWS,Docker,Kubernetes",0,English,,,51-100,60000,68000,,30,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,Frontend Developer,,5,3,Senior,,JavaScript / Typescript,React,1,English,,,101-1000,75000,80000,,,,,,,,,No,No
+Munich,,Full-time employee,,Backend Developer,,17,6,Senior,,C / C++,"SQL,Docker",2,English,,,101-1000,85000,88000,73000,29,,,,,,,No,No
+Hamburg,,Full-time employee,,Software Engineer,,4,4,Middle,,JavaScript / Typescript,"Javascript / Typescript, React,NodeJS,AWS,Terraform,Kubernetes,Docker",1,"German,English",,,101-1000,65500,68750,61000,unlimited,,,,,,No,Yes,No
+Munich,,Self-employed (freelancer),,BI Developer / Data Engineer,,14,6,Senior,,SQL,"Azure,Google Cloud,AWS",0,"English,German",,,1000+,,,,,105,1800,12,0,,,No,No
+Berlin,,Full-time employee,,Engineering Manager,,12,8,Lead / Staff,,Java,"Python,Kotlin,Docker,AWS",4,English,,,1000+,100000,100000,90000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,6,0,Middle,,Python,"Go,Docker",0,English,,,101-1000,65000,65000,,28,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,4,8,Middle,,Other,"Kubernetes,Docker,Google Cloud,Rust",0,English,Elixir/Rust,,1000+,80000,90000,72000,31,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,7,7,Lead / Staff,,Python,"Google Cloud,Terraform,Kubernetes,Docker",3,English,,,101-1000,80000,80000,75000,30,,,,,,"Yes, I am satisfied with a severance package",Yes,500 - 1000
+Other,Kuala Lumpur,Full-time employee,,BI Developer / Data Engineer,,5,0,Middle,,Python,"SQL,Azure,Docker",1,English,,,101-1000,1142,13702,,16,,,,,,,No,No
+Berlin,,Full-time employee,,DevOps,,6,0,Senior,,Other,"Python,AWS,Azure,Kubernetes,Terraform,Docker",0,"English,Russian",Kubernetes,,1000+,80000,90000,,24,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,Data Scientist,,6,2,Lead / Staff,,Python,"Kubernetes,Docker",2,English,,,1000+,106,106,106,30,,,,,,,No,No
+Munich,,Full-time employee,,Data Scientist,,6,3,Senior,,Python,"R,SQL",3,"Russian,English",,,51-100,75000,75000,69000,30,,,,,,,No,No
+Munich,,Full-time employee,,Backend Developer,,5,0,Middle,,SAP / ABAP,SQL,0,"Russian,German,English",,,101-1000,60000,60000,,30,,,,,,,No,No
+Augsburg,,Full-time employee,,Network / Security Engineer / System Administrator,,11,5,Senior,,Other,Azure,1,English,"Network, security (Palo Alto, Aruba EdgeConnect)",,1000+,92000,97000,77000,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Backend Developer,,6,6,Middle,,Go,"Docker,Terraform,AWS,SQL",1,English,,,1000+,98000,120000,112000,25,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,Backend Developer,,12,2,Middle,,Java,"Kubernetes,Docker,Other,Java / Scala",2,"English,Russian",,,1000+,100000,140000,130000,32,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Other,Data Analyst,7,6,Middle,,SQL,Python,0,English,,,1000+,61000,65000,,27,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,4,4,Middle,,C / C++,Python,2,"German,English",,,101-1000,61500,70000,,30,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,Mobile Developer,,6,2,Senior,,Swift,,0,English,,,101-1000,74000,85000,57000,28,,,,,,,No,No
+Munich,,Full-time employee,,Backend Developer,,30,8,Senior,,C# / .NET,"C / C++,.NET,SQL,AWS",0,"English,German,Russian",,,101-1000,90000,90000,78000,30,,,,,,,No,No
+Munich,,Full-time employee,,Other,Principal engineer,12,1,Head / Principal,,C / C++,"Python,Other",1,English,,,51-100,100000,10000,,30,,,,,,,No,No
+Munich,,Full-time employee,,QA Engineer,,1,1,Junior,,Java,Java / Scala,0,German,,,101-1000,46000,46000,,30,,,,,,,Yes,100 - 500
+Berlin,,Full-time employee,,ML Engineer,,7,7,Lead / Staff,,Python,"AWS,Docker,Other,SQL",5,English,,,1000+,78000,78000,78000,30,,,,,,"Yes, I am satisfied with a severance package",Yes,No
+Munich,,Full-time employee,,Backend Developer,,10,5,Middle,,Java,"Javascript / Typescript,SQL,AWS",3,English,,,1000+,90000,100000,90000,27,,,,,,No,Yes,No
+Munich,,Full-time employee,,Frontend Developer,,7,6,Senior,,JavaScript / Typescript,"Other,Ruby",1,English,,,1000+,118000,140000,105000,unlimited,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,Data Scientist,,7,4,Middle,,Python,SQL,0,English,,,1000+,75000,75000,71000,24,,,,,,,No,100 - 500
+Nuremberg,,Full-time employee,,QA Engineer,,4,0,Middle,,Java,"Docker,Other",0,German,,,1000+,56450,56450,,28,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,19,5,Senior,,Java,,5,English,,,101-1000,81500,92500,85000,28,,,,,,,No,No
+Berlin,,Full-time employee,,Head / Principal / VP,,5,5,Head / Principal,,Python,,0,"English,German",,,up to 10,85000,35000,95000,30,,,,,,"Yes, I am NOT satisfied with a severance package",Yes,No
+Berlin,,Full-time employee,,Data Scientist,,3,3,Middle,,Python,"SQL,AWS,Google Cloud",0,"German,English",,,1000+,50000,55000,52000,30,,,,,,,No,No
+Cologne,,Full-time employee,,Software Engineer,,14,2,Senior,,C / C++,SQL,2,English,,,1000+,82000,82000,77500,30,,,,,,,No,No
+Bonn,,Full-time employee,,Tech Lead / Team Lead,,14,6,Senior,,Scala,"Python,Google Cloud,Kubernetes,Terraform,Docker",,English,,,1000+,80000,100000,87000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,13,1,Senior,,PHP,"Docker,Go,PHP",1,English,,,101-1000,78000,78000,,28,,,,,,,No,No
+Karlsruhe,,Full-time employee,,DevOps,,2,2,Junior,,Other,"Azure,Kubernetes,Terraform,Docker",0,German,,,101-1000,67000,67000,67000,30,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,6,1,Senior,,Swift,"Swift,Other,Java / Scala",1,"English,Russian",,,101-1000,81000,81000,65000,22,,,,,,,No,No
+Munich,,Full-time employee,,Scrum Master / Agile Coach,,9,4,Middle,,Java,,2,English,,,51-100,65000,65000,60000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Designer (UI/UX),,20,4,Lead / Staff,,Other,"Python,Swift, React,Angular,Javascript / Typescript,NodeJS,Ruby,SQL,Perl,SAP / ABAP,AWS",1,English,,,51-100,75000,75000,65000,25,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,11,3,Senior,,C# / .NET,"Javascript / Typescript, React,.NET,Azure,Terraform,Docker",0,English,,,11-50,110000,110000,110000,30,,,,,,,No,No
+Munich,,Full-time employee,,Software / Solutions Architect,,10,3,Senior,,Other,Other,0,English,Business Applications,,101-1000,100000,125000,82000,30,,,,,,,No,No
+Dusseldorf,,Full-time employee,,Head / Principal / VP,,14,6,Head / Principal,,PHP,SQL,1,"English,German,Russian",,,101-1000,85000,95000,80000,25,,,,,,No,Yes,over 1000 euros
+Other,remote,Full-time employee,,Frontend Developer,,15,0,Senior,,JavaScript / Typescript,"Javascript / Typescript,Angular, React,NodeJS,Google Cloud,Docker,Python",0,English,,,1000+,75000,75000,,29,,,,,,,No,No
+Other,Lübeck,Full-time employee,,Software Engineer,,8,3,Middle,,C# / .NET,"C# / .NET core,Javascript / Typescript,Angular,.NET,Other",3,German,,,101-1000,58000,60000,58000,27,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,Software Engineer,,3,3,Middle,,PHP," React,Javascript / Typescript,SQL,Docker",0,English,,,101-1000,62000,62000,48000,27,,,,,,,No,No
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,7,1,Senior,,Scala,"Python,SQL,AWS",1,English,,,1000+,80000,80000,77000,27,,,,,,,No,over 1000 euros
+Munich,,Full-time employee,,Software Engineer,,10,3,Junior,,Other,"Python,C / C++,SQL,Go,Other",3,"English,Russian",,,1000+,78500,107000,106000,30,,,,,,,No,No
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,6,1,Senior,,Python,SQL,1,English,,,1000+,62000,0,0,25,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,14,3,Senior,,C# / .NET,".NET,Google Cloud,Kubernetes,Docker,Terraform",3,English,,,1000+,95000,120000,105000,28,,,,,,No,Yes,No
+Frankfurt,,Full-time employee,,Backend Developer,,3,3,Middle,,Java,"Docker,SQL",2,"German,English",,,101-1000,53000,53000,48000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Frontend Developer,,6,0,Senior,,JavaScript / Typescript,Angular,4,"English,Russian",,,101-1000,82000,95000,,28,,,,,,,No,No
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,1,1,Junior,,Java,"Azure,Docker,Google Cloud,SQL",1,"English,German",,,101-1000,54500,54500,52000,28,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Mobile Developer,,10,5,Senior,,Kotlin,Java / Scala,2,English,,,101-1000,82500,82500,82500,35,,,,,,No,Yes,100 - 500
+Munich,,Full-time employee,,Software Engineer,,10,2,Senior,,JavaScript / Typescript,"PHP, React,NodeJS,SQL,AWS,Kubernetes,Terraform,Docker",2,English,,,101-1000,65000,65250,65000,28,,,,,,,No,No
+Bonn,,Full-time employee,,Data Scientist,,12,13,Junior,,NodeJS,Javascript / Typescript,14,Russian,,,up to 10,10000,5000,2000,60,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,Network / Security Engineer / System Administrator,,17,3,Lead / Staff,,Other,Terraform,0,English,Ansible,,51-100,65000,65000,55000,27,,,,,,,No,over 1000 euros
+Munich,,Full-time employee,,Software Engineer,,8,4,Senior,,Java,,0,"English,German,Russian",,,11-50,80000,0,,30,,,,,,,No,No
+Munich,,Full-time employee,,Frontend Developer,,3,0,Middle,,JavaScript / Typescript,Python,3,English,,,1000+,67000,70000,,30,,,,,,No,Yes,500 - 1000
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,8,8,Lead / Staff,,Python,"Python,Java / Scala,Javascript / Typescript,AWS,SQL,Terraform,Docker,Kubernetes,Other",3,"English,German",,,101-1000,88000,2000,,29,,,,,,,No,100 - 500
+Munich,,Full-time employee,,Software Engineer,,20,0,Middle,,C# / .NET,"Kotlin,C / C++",0,Russian,,,1000+,90000,100000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,2,2,Junior,,JavaScript / Typescript,"Javascript / Typescript,NodeJS,Docker,AWS,SQL, React",1,English,,,1000+,63000,65000,55000,30,,,,,,,No,over 1000 euros
+Other,Erfurt,Full-time employee,,QA Engineer,,4,1,Middle,,JavaScript / Typescript,,1,"English,Russian",,,11-50,60000,60000,55000,24,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,15,8,Lead / Staff,,Ruby,,0,English,,,1000+,105000,140000,80000,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Data Scientist,,6,3,Middle,,Python,"Azure,SQL",1,English,,,101-1000,85000,90000,72000,30,,,,,,No,Yes,100 - 500
+Hamburg,,Full-time employee,,BI Developer / Data Engineer,,4,4,Senior,,Scala,"Python,SQL,Kubernetes,Docker,AWS",0,English,,,51-100,80000,80000,70000,30,,,,,,,No,No
+Stuttgart,,Full-time employee,,Other,Scientific Reaeaecher,10,6,Senior,,Other,"Python,Google Cloud",2,"English,German",Python,,11-50,62000,2000,2000,30,,,,,,,No,No
+Other,Batumi,Full-time employee,,Head / Principal / VP,,7,0,Head / Principal,,JavaScript / Typescript,"NodeJS, React,Go,AWS,Javascript / Typescript,Angular,SQL,Docker",1,English,,,11-50,60000,60000,,5,,,,,,,No,No
+Munich,,Full-time employee,,Frontend Developer,,14,0,Senior,,JavaScript / Typescript,"NodeJS, React",0,"English,Russian",,,11-50,75000,75000,,28,,,,,,,No,No
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,10,2,Middle,,Python,"Azure,Docker",2,English,,,1000+,72000,0,0,27,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,6,6,Middle,,Python,"Docker,NodeJS,Java / Scala",0,"German,Russian",,,up to 10,60000,60000,52000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,16,8,Middle,,JavaScript / Typescript,"NodeJS,Javascript / Typescript,Docker",6,"English,German,Russian",,,1000+,80000,80000,77000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Mobile Developer,,10,6,Senior,,Swift,,1,English,,,1000+,76000,99000,75000,28,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Software Engineer,,14,10,Senior,,C / C++,"Python,Rust",10,English,,,1000+,90000,90000,90000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Head / Principal / VP,,9,4,Head / Principal,,C# / .NET,"Python,C# / .NET core,Javascript / Typescript, React,NodeJS,Angular,SQL,Azure,AWS,Terraform,Kubernetes,Docker",0,"English,German",,,1000+,130000,145000,115000,27,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,20,10,Lead / Staff,,JavaScript / Typescript," React,Go,Rust,Kubernetes,Docker,Terraform",3,English,,,101-1000,120000,130000,120000,30,,,,,,,No,No
+Karlsruhe,,Full-time employee,,Software Engineer,,4,4,Senior,,Python,"SQL,Azure,Kubernetes,Docker",4,"English,German",,,1000+,80000,86000,70000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Frontend Developer,,5,30,Middle,,JavaScript / Typescript,NodeJS,1,"Russian,English,German",,,1000+,68000,70000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,11,6,Lead / Staff,,Rust,"Python,C / C++,Kubernetes,Docker",5,English,,,1000+,68500,1500,65000,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Software Engineer,,10,5,Senior,,Python,AWS,3,"English,Russian",,,101-1000,85000,85000,80,29,,,,,,,No,No
+Berlin,,Full-time employee,,Frontend Developer,,2,5,Junior,,JavaScript / Typescript,React,2,English,,,1000+,55000,55000,47000,28,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Data Scientist,,3,3,Senior,,Python,"Python,SQL",0,English,,,1000+,100750,100750,74000,27,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,Backend Developer,,4,4,Middle,,Kotlin,"Java / Scala,Python,SQL,AWS,Kubernetes,Docker",3,"English,German",,,101-1000,78000,78000,70000,30,,,,,,No,Yes,500 - 1000
+Berlin,,Full-time employee,,Software Engineer,,3,2,Middle,,Ruby,"Kubernetes,Docker,SQL",3,"English,German",,,101-1000,68250,75036,70000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Frontend Developer,,20,6,Senior,,JavaScript / Typescript,"AWS,Docker",2,English,,,1000+,91000,103000,80000,28,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,10,4,Lead / Staff,,Go,"Java / Scala,Javascript / Typescript,AWS,Azure,Google Cloud,Kubernetes,Terraform,Docker",1,English,,,1000+,155000,180000,150000,28,,,,,,,No,100 - 500
+Munich,,Full-time employee,,Software Engineer,,2,0,Junior,,JavaScript / Typescript,Java / Scala,0,English,,,1000+,79500,120000,0,30,,,,,,,No,No
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,8,8,Senior,,Python,"SQL,AWS,Google Cloud",2,English,,,1000+,85000,100000,90000,26,,,,,,No,Yes,No
+Karlsruhe,,Full-time employee,,Backend Developer,,10,3,Senior,,PHP,"AWS,Kubernetes,Docker,PHP,Javascript / Typescript",3,English,,,11-50,57500,60000,54000,30,,,,,,,No,No
+Hamburg,,Full-time employee,,Software / Solutions Architect,,10,7,Lead / Staff,,Rust,,1,"English,Russian",,,51-100,220000,300000,,unlimited,,,,,,,No,No
+Dusseldorf,,Full-time employee,,QA Engineer,,23,23,Lead / Staff,,Java,"Javascript / Typescript,Docker,SQL,AWS",0,"English,German",,,1000+,124000,144000,,30,,,,,,,No,100 - 500
+Dusseldorf,,Self-employed (freelancer),,QA Engineer,,23,23,Lead / Staff,,Java,"Javascript / Typescript,Docker",6,"German,Russian",,,up to 10,,,,,110,650,30,10000,,,No,No
+Berlin,,Full-time employee,,Other,QA Automation Engineer,7,15,Senior,,JavaScript / Typescript,"Docker,AWS",15,English,,,51-100,67000,75000,60000,30,,,,,,,No,No
+Other,Dortmund,Full-time employee,,Software Engineer,,18,6,Senior,,Java,"Python,Kotlin,SQL,Go,AWS,Docker,Kubernetes,Java / Scala",6,English,,,1000+,108000,108000,96000,30,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,C-level (CTO / CEO / ...),,13,6,Lead / Staff,,Scala,"Java / Scala,Kubernetes,Terraform,AWS,Docker,SQL",1,"English,German,Russian",,,up to 10,156000,156000,160000,,,,,,,,No,No
+Berlin,,Full-time employee,,Head / Principal / VP,,12,8,Head / Principal,,Kotlin,"Kotlin,Java / Scala,Swift,SQL,Google Cloud,AWS,Kubernetes,Docker,Terraform",1,"English,Russian",,,101-1000,115000,120000,80000,32,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Mobile Developer,,8,4,Senior,,Swift,Ruby,4,English,,,1000+,81000,85000,74000,30,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,13,4,Senior,,C / C++,,0,"English,Russian",,,51-100,90000,95000,70000,32,,,,,,No,Yes,No
+Berlin,,Self-employed (freelancer),,Other,Statistical Programmer,10,7,Senior,,Other,"R,SQL",4,English,SAS,,1000+,,,,,60,1000,40,10000,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,7,2,Middle,,Kotlin,"Kotlin,Java / Scala,SQL,AWS,Kubernetes,Terraform,Docker",2,"English,Russian",,,1000+,77000,82000,,27,,,,,,No,Yes,No
+Munich,,Full-time employee,,Software Engineer,,15,3,Senior,,C / C++,Python,1,English,,,1000+,95000,0,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Other,Data Analyst,8,4,Middle,,SQL,,4,"English,German,Russian",,,51-100,52200,52200,43200,25,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,Software Engineer,,10,5,Senior,,C / C++,SQL,1,English,,,101-1000,72000,72000,70000,30,,,,,,"Yes, I am NOT satisfied with a severance package",Yes,100 - 500
+Berlin,,Full-time employee,,ML Engineer,,3,3,Middle,,Python,"SQL,AWS,Kubernetes,Docker",0,"English,German",,,51-100,68000,70000,55000,28,,,,,,No,Yes,up to 100 euro
+Munich,,Full-time employee,,Engineering Manager,,10,5,Other,,JavaScript / Typescript,"Python,Javascript / Typescript,NodeJS,SQL,AWS,Terraform,Docker",0,English,,,101-1000,91000,100000,85000,30,,,,,,,No,over 1000 euros
+Nuremberg,,Full-time employee,,Software Engineer,,3,0,Middle,,Python,"Javascript / Typescript,Docker",0,English,,,11-50,55000,55000,,24,,,,,,,No,No
+Munich,,Full-time employee,,Backend Developer,,11,4,Senior,,Java,"Kubernetes,Docker",1,"Russian,English",,,1000+,85000,8500,72000,28,,,,,,,No,No
+Berlin,,Self-employed (freelancer),,Tech Lead / Team Lead,,12,8,Lead / Staff,,JavaScript / Typescript," React,NodeJS,AWS",0,"English,German",,,11-50,,,,,90,1200,,0,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,4,1,Senior,,JavaScript / Typescript,"Javascript / Typescript, React",1,English,,,101-1000,75000,75000,60000,26,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,2,1,Middle,,Python,"Kubernetes,Terraform,Docker,AWS",0,English,,,51-100,60000,60000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,12,8,Senior,,Kotlin,"SQL,AWS,Kubernetes,Terraform,Docker",0,English,,,1000+,90000,90000,82000,26,,,,,,,No,500 - 1000
+Munich,,Full-time employee,,BI Developer / Data Engineer,,10,6,Senior,,SQL,"Python,Java / Scala,SQL,AWS,Docker,Terraform",2,English,,,51-100,96000,96000,80000,Unlimited,,,,,,No,Yes,500 - 1000
+Berlin,,Full-time employee,,Data Scientist,,5,2,Senior,,SQL,"Java / Scala,R,SQL,AWS,Docker",2,English,,,101-1000,80000,80000,70000,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Engineering Manager,,15,6,Lead / Staff,,Java,"Java / Scala,Kotlin,Javascript / Typescript,NodeJS,AWS,Kubernetes,Docker",6,English,,,1000+,115000,135000,115000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Other,Quality Assurance,20,1,Senior,,Other,Other,0,German,,,1000+,78000,84500,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,11,6,Senior,,Scala,Docker,0,English,,,1000+,105000,124000,100000,30,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Data Scientist,,5,5,Middle,,SQL,"R,SQL",1,"English,German",,,1000+,65000,67000,,30,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Engineering Manager,,12,6,Lead / Staff,,Scala,"Java / Scala,Python,Javascript / Typescript,AWS,Kubernetes,Docker",6,English,,,1000+,104443,110000,93500,30,,,,,,,No,500 - 1000
+Berlin,,Full-time employee,,Software Engineer,,10,4,Middle,,C / C++,"Python,PHP,Swift,Rust",1,English,,,1000+,110,70,110,28,,,,,,No,Yes,over 1000 euros
+Berlin,,Full-time employee,,Frontend Developer,,4,2,Middle,,JavaScript / Typescript,"Javascript / Typescript, React",2,"English,Russian",,,101-1000,68000,68000,60000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,1,0,Junior,,Python,"Python,SQL,Go,AWS,Kubernetes,Docker",0,English,,,11-50,45000,45000,,Unlimited,,,,,,,No,500 - 1000
+Stuttgart,,Full-time employee,,DevOps,,9,2,Senior,,Other,"Terraform,Docker,Other,AWS",3,"Russian,English",Groovy,,1000+,72000,75000,69000,30,,,,,,,No,500 - 1000
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,13,6,Lead / Staff,,Python,"Java / Scala,Kotlin,SQL,AWS,Kubernetes,Terraform,Docker",0,English,,,1000+,140000,210000,160000,Unlimited,,,,,,No,Yes,No
+Berlin,,Self-employed (freelancer),,DevOps,,8,5,Senior,,Bash,"Kubernetes,Docker",0,English,,,1000+,,,,,82,1200,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,9,9,Senior,,JavaScript / Typescript," React,NodeJS,Other",1,"German,English",,,51-100,5800,72000,,28,,,,,,No,Yes,No
+Munich,,Full-time employee,,Frontend Developer,,14,4,Lead / Staff,,JavaScript / Typescript,Javascript / Typescript,,English,,,11-50,78000,3000,,,,,,,,No,Yes,No
+Berlin,,Part-time employee,,BI Developer / Data Engineer,,6,6,Senior,,Python,"R,SQL,AWS,Terraform,Docker,Kubernetes,Rust,Python",1,"German,English",,,101-1000,58000,58000,77000,30,,,,,30,,No,No
+Berlin,,Full-time employee,,Software / Solutions Architect,,15,5,Lead / Staff,,Python,"Python,SQL,R,AWS,Azure,Kubernetes,Terraform,Docker",5,English,,,1000+,110000,20000,104000,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Software Engineer,,0,0,Junior,,Java,"Python,SQL,Kubernetes,Docker",0,"German,English",,,101-1000,43200,46000,,30,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Software Engineer,,4,3,Middle,,Python,"Java / Scala,AWS,Docker,Go,SQL",0,English,,,1000+,75000,75000,55000,30,,,,,,No,Yes,up to 100 euro
+Berlin,,Full-time employee,,Engineering Manager,,15,10,Lead / Staff,,Ruby,"Go,Kubernetes,Terraform,Docker,AWS",1,English,,,1000+,105000,150000,85000,30,,,,,,No,Yes,over 1000 euros
+Berlin,,Full-time employee,,Software Engineer,,15,1,Senior,,Python,"Python,Java / Scala,Google Cloud,AWS,Azure,Other",1,English,,,101-1000,87000,90000,,22,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,10,10,Lead / Staff,,Python,SQL,1,English,,,1000+,115000,200000,85000,30,,,,,,"Yes, I am satisfied with a severance package",Yes,500 - 1000
+Berlin,,Full-time employee,,Backend Developer,,8,4,Middle,,Ruby,"Docker,Other",4,English,,,11-50,70000,70000,56000,28,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,10,2,Senior,,JavaScript / Typescript,"Javascript / Typescript, React,NodeJS,Clojure",0,"English,Russian",,,11-50,105000,120000,70000,28,,,,,,"Yes, I am NOT satisfied with a severance package",Yes,No
+Frankfurt,,Full-time employee,,BI Developer / Data Engineer,,0,0,Junior,,Python,"AWS,Java / Scala",0,"German,English",,,101-1000,60000,60000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Product Manager,,3,3,Junior,,Other,,1,English,,,101-1000,60000,60000,,27,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Data Scientist,,10,7,Senior,,Python,,4,English,,,1000+,110000,110000,,,,,,,,,No,No
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,9,4,Senior,,Python,"SQL,Docker,Other",1,English,,,1000+,110000,37000,100000,30,,,,,,,No,No
+Munich,,Full-time employee,,Engineering Manager,,11,11,Senior,,Scala,"Javascript / Typescript, React,AWS,Google Cloud,Kubernetes,Docker",0,English,,,101-1000,125000,125000,105000,28,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Other,Data Engineer,1,1,Junior,,Python,AWS,1,"English,German",,,51-100,54000,54000,50000,30,,,,,,,No,No
+Munich,,Full-time employee,,Frontend Developer,,6,4,Senior,,JavaScript / Typescript,"Java / Scala, React,Go",4,"English,German",,,101-1000,90000,90000,82000,30,,,,,,,No,No
+Berlin,,Full-time employee,,DevOps,,6,6,Senior,,Go,"AWS,Kubernetes,Terraform,Docker",2,"English,German",,,1000+,75000,75000,68000,27,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,3,3,Middle,,SAP / ABAP,"SAP / ABAP,SQL,Other",0,German,,,1000+,58000,63000,50000,unlimited,,,,,,,No,500 - 1000
+Frankfurt,,Full-time employee,,Tech Lead / Team Lead,,10,10,Lead / Staff,,NodeJS,"PHP,Javascript / Typescript, React,NodeJS,R,Kubernetes,AWS,Docker,Terraform",2,"English,German",,,51-100,80000,0,0,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,3,3,Senior,,Python,Docker,1,English,,,51-100,70000,70000,62000,28,,,,,,,No,No
+Berlin,,Full-time employee,,ML Engineer,,6,3,Senior,,Python,"C / C++,Docker,Kubernetes",1,"English,Russian",,,1000+,80000,80000,75000,28,,,,,,No,Yes,No
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,3,3,Middle,,Python,"SQL,Azure",1,"English,German",,,1000+,63000,66000,61000,28,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Backend Developer,,15,4,Senior,,Ruby,"NodeJS,Terraform,Javascript / Typescript",0,English,,,1000+,135000,250000,85000,28,,,,,,"Yes, I am satisfied with a severance package",Yes,100 - 500
+Berlin,,Full-time employee,,Designer (UI/UX),,8,2,Head / Principal,,Other,Other,1,English,,,101-1000,78000,110000,78000,27,,,,,,,No,No
+Berlin,,Full-time employee,,Network / Security Engineer / System Administrator,,16,3,Senior,,Bash,"AWS,Azure,Terraform,Other",0,"English,Russian",,,101-1000,70000,78000,55000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,21,10,Head / Principal,,Python,"C / C++,Azure,Kubernetes,Docker,Other",0,English,,,1000+,150000,250000,125000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,18,7,Senior,,Kotlin,"Javascript / Typescript,Python",1,English,,,1000+,120000,180000,180000,28,,,,,,No,Yes,No
+Berlin,,Full-time employee,,QA Engineer,,8,4,Senior,,Java,Javascript / Typescript,3,English,,,101-1000,68000,76000,70000,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Software Engineer,,12,12,Senior,,Java,Javascript / Typescript,5,"English,German,Russian",,,1000+,76000,76000,74000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,4,0,Middle,,Java,,0,English,,,51-100,65000,65000,,25,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Software Engineer,,11,1,Head / Principal,,Java,"Python,Java / Scala,Kotlin,R,SQL",8,"English,Russian",,,1000+,140000,186000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Data Scientist,,5,0,Senior,,Python,"SQL,AWS,Docker",0,English,,,101-1000,75000,75000,,30,,,,,,,No,No
+Hamburg,,Full-time employee,,Data Scientist,,7,7,Senior,,Python,"Docker,Azure,SQL",3,"English,German",,,1000+,85000,95000,79000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Mobile Developer,,11,11,Middle,,Kotlin,Java / Scala,2,English,,,1000+,80800,81000,77000,26,,,,,,,No,No
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,4,4,Senior,,SQL,"Python,Google Cloud",0,"English,German",,,1000+,76000,86000,86000,27,,,,,,No,Yes,500 - 1000
+Hamburg,,Full-time employee,,Data Scientist,,5,5,Senior,,Python,SQL,2,English,,,1000+,85000,90000,70000,30,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,20,3,Middle,,Java,"AWS,Javascript / Typescript,Docker,Kubernetes",0,English,,,101-1000,90000,95000,70000,30,,,,,,,No,No
+Stuttgart,,Full-time employee,,Software Engineer,,15,7,Lead / Staff,,Java,"Angular,SQL,Google Cloud,Kubernetes,Docker",2,English,,,101-1000,115000,115000,90000,28,,,,,,,No,100 - 500
+Hamburg,,Full-time employee,,Software Engineer,,8,2,Middle,,Python,React,2,English,,,1000+,75000,84000,84000,30,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Engineering Manager,,16,4,Head / Principal,,Python,"SQL,AWS,Google Cloud,Terraform",1,English,,,101-1000,114000,114000,,30,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,Engineering Manager,,11,11,Head / Principal,,Other,,3,"English,German",,,1000+,98000,132000,96000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,7,4,Senior,,Python,"Java / Scala,Javascript / Typescript,SQL,Kotlin,Azure,Kubernetes,Docker",1,English,,,1000+,85000,95000,85000,30,,,,,,,No,500 - 1000
+Berlin,,Full-time employee,,Software Engineer,,15,7,Senior,,C# / .NET,"Go,SQL,AWS,Terraform,Docker,Javascript / Typescript,C# / .NET core",3,"English,Russian",,,1000+,82000,90000,78000,28,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,Software Engineer,,6,6,Senior,,Java,"Kotlin,Javascript / Typescript, React,AWS,Python",3,English,,,101-1000,82000,86000,63000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,6,6,Middle,,JavaScript / Typescript,"Java / Scala,Kotlin,SQL,AWS, React",0,English,,,1000+,115000,115000,86000,28,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,Other,SRE,14,7,Senior,,Python,"SQL,AWS,Azure,Kubernetes,Terraform,Docker,Other",0,"English,German",,,1000+,85000,97750,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,12,8,Lead / Staff,,SQL,"Python,AWS,Google Cloud,Kubernetes,Terraform,Docker,Other",3,English,,,101-1000,100000,120000,92000,30,,,,,,,No,over 1000 euros
+Stuttgart,,Full-time employee,,DevOps,,14,4,Senior,,Other,"Python,AWS,Docker,Terraform,Kubernetes,Other,Ruby",0,"English,Russian",Linux,,51-100,90000,90000,80000,28,,,,,,,No,No
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,2,2,Lead / Staff,,Python,"SQL,Python",2,"English,Russian,German",,,51-100,90000,90000,75000,30,,,,,,,No,No
+Hamburg,,Full-time employee,,Data Scientist,,4,4,Senior,,Python,"SQL,AWS,Docker",0,"English,German",,,51-100,80000,80000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,15,5,Senior,,Go,"Java / Scala,Python,AWS,Terraform,Kubernetes",0,English,,,1000+,135000,287000,120000,30,,,,,,No,Yes,over 1000 euros
+Berlin,,Part-time employee,,Engineering Manager,,6,3,Head / Principal,,Python,"Python,Kotlin,AWS,Kubernetes,Docker",3,"English,Russian",,,1000+,139000,139000,130000,30,,,,,32,No,Yes,100 - 500
+Berlin,,Full-time employee,,Mobile Developer,,11,0,Senior,,Swift,Other,0,English,,,101-1000,95000,95000,,28,,,,,,No,Yes,No
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,9,8,Lead / Staff,,Python,"Python,Java / Scala,Kotlin,SQL,Google Cloud,Docker",0,English,,,1000+,170000,190000,120000,Unlimited,,,,,,No,Yes,500 - 1000
+Berlin,,Full-time employee,,Backend Developer,,5,0,Senior,,C# / .NET,".NET,SQL",0,English,,,up to 10,65000,65000,,30,,,,,,,No,No
+Berlin,,Working student,,Software / Solutions Architect,,3,3,Junior,,Java,"Java / Scala,Python,Javascript / Typescript,SQL,SAP / ABAP,Kubernetes,Docker",1,"German,English",,,1000+,16000,4000,4000,14,,,,,,,No,No
+Berlin,,Full-time employee,,ML Engineer,,10,10,Senior,,C / C++,Python,0,"English,German",,,1000+,100000,180000,85000,30,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,Software Engineer,,7,0,Senior,,Kotlin,,0,"English,Russian",,,1000+,115000,125000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Engineering Manager,,11,1,Lead / Staff,,Java,,1,English,,,1000+,100000,120000,,28,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,Product Manager,,10,5,Senior,,Other,,0,English,n/a,,1000+,115000,160000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,16,1,Senior,,Python,"SQL,Docker,Terraform,Google Cloud",1,English,,,1000+,82500,95000,,30,,,,,,No,Yes,500 - 1000
+Berlin,,Full-time employee,,Backend Developer,,10,1,Senior,,Ruby,,0,English,,,11-50,85000,85000,,,,,,,,,No,No
+Stuttgart,,Full-time employee,,Frontend Developer,,3,0,Middle,,JavaScript / Typescript," React,NodeJS,Angular,Javascript / Typescript",0,English,,,101-1000,70000,70000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Frontend Developer,,8,4,Senior,,JavaScript / Typescript,"Javascript / Typescript, React,NodeJS",0,English,,,1000+,110000,130000,,30,,,,,,,No,No
+Cologne,,Full-time employee,,Data Scientist,,4,4,Middle,,SQL,"Python,R,Google Cloud",0,German,,,1000+,61500,67000,75000,30,,,,,,,No,No
+Munich,,Full-time employee,,Engineering Manager,,15,7,Middle,,Kotlin,"Swift,SQL,AWS,Docker, React",0,English,,,1000+,95000,105000,95000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,5,0,Senior,,Go,"Kubernetes,Terraform,Python,Docker",0,"English,Russian",,,101-1000,80400,80400,,25,,,,,,,No,No
+Munich,,Full-time employee,,Backend Developer,,22,22,Lead / Staff,,Java,"Javascript / Typescript,SQL",19,"English,German",,,up to 10,58000,58000,58000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,8,3,Senior,,Java,"Python,SQL,AWS,Docker",3,"English,Russian",,,101-1000,87000,87000,78000,28,,,,,,No,Yes,No
+Hamburg,,Full-time employee,,Other,Senior statistician,5,5,Senior,,R,"Python,Azure",0,English,,,1000+,72500,83000,53500,30,,,,,,,No,No
+Berlin,,Full-time employee,,Engineering Manager,,6,1,Senior,,Kotlin,"Javascript / Typescript,NodeJS",4,English,,,1000+,115000,165000,,28,,,,,,,No,No
+Berlin,,Self-employed (freelancer),,Other,SAP Authorization consultant,13,7,Senior,,SQL,"SAP / ABAP,Google Cloud,Azure",2,"English,German",,,1000+,,,,,85,1647,60,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,10,6,Senior,,Go,"SQL,AWS,Docker",0,"English,Russian",,,1000+,95000,0,85000,28,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,QA Engineer,,3,0,Lead / Staff,,Java,"Java / Scala,Python,Javascript / Typescript,Docker,Terraform,Kubernetes,Google Cloud",0,English,,,11-50,72000,0,,25,,,,,,,No,over 1000 euros
+Berlin,,Founder,,Data Scientist,,8,7,Other,Chief,Python,"SQL,AWS,Docker",2,"English,Russian",,,up to 10,75000,90000,75000,Unlimited,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,Backend Developer,,11,2,Middle,,Java,"SQL,AWS,Kubernetes,Docker",2,"English,Russian",,,1000+,70000,73000,70000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,4,5,Senior,,JavaScript / Typescript," React,NodeJS,SQL,AWS,SAP / ABAP,Docker,Python",0,"English,Russian",,,1000+,66000,66000,,25,,,,,,,No,No
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,5,5,Lead / Staff,,Java,"Kotlin,SQL,AWS,Docker",0,"English,German",,,51-100,90000,90000,81000,28,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,18,4,Middle,,JavaScript / Typescript,"Javascript / Typescript,NodeJS,Docker,Azure",3,"German,English",,,11-50,78000,78000,78000,26,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,10,3,Senior,,Java,"Kotlin,Kubernetes,Terraform,Docker",1,English,,,1000+,85000,97000,80000,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Software Engineer,,8,3,Senior,,PHP,Javascript / Typescript,3,"English,Russian",,,11-50,72000,80000,55000,24,,,,,,,No,100 - 500
+Karlsruhe,,Full-time employee,,Software Engineer,,1,0,Junior,,Python,"Python,Docker,Other",0,English,,,1000+,48900,29880,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,10,4,Middle,,Java,"Kotlin,Angular,AWS,Terraform,Kubernetes,Docker",4,English,,,101-1000,75000,80000,70000,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Software Engineer,,11,0,Lead / Staff,,JavaScript / Typescript,"Google Cloud,Terraform,Docker,Kubernetes,AWS,NodeJS, React",0,English,,,101-1000,120000,120000,,28,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Software Engineer,,6,1,Senior,,JavaScript / Typescript,React,1,English,,,101-1000,72400,80000,,,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Software Engineer,,12,4,Senior,,C / C++,"C / C++,Python,Other,Docker",0,English,,,101-1000,100000,120000,95000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,5,2,Middle,,NodeJS,"Python,Kotlin,NodeJS,AWS",2,English,,,1000+,89000,110000,,28,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Software Engineer,,8,6,Senior,,Kotlin,Java / Scala,0,English,,,1000+,136000,60000,104000,28,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,Software Engineer,,6,6,Middle,,Java,"Java / Scala,Python,SQL,Docker,AWS,Javascript / Typescript",4,"English,German",,,101-1000,80000,0,80000,28,,,,,,No,Yes,up to 100 euro
+Berlin,,Full-time employee,,Data Scientist,,5,1,Middle,,Python,"SQL,Google Cloud",1,English,,,1000+,73000,73000,,24,,,,,,No,Yes,500 - 1000
+Berlin,,Full-time employee,,Engineering Manager,,15,11,Senior,,Java,"Python,Ruby,Go,Rust,AWS",0,English,,,1000+,150000,300000,210000,28,,,,,,No,Yes,over 1000 euros
+Berlin,,Full-time employee,,Software Engineer,,15,10,Senior,,JavaScript / Typescript," React,NodeJS,AWS,Google Cloud",0,English,,,1000+,115000,140000,90000,unlimited,,,,,,No,Yes,over 1000 euros
+Frankfurt,,Self-employed (freelancer),,BI Developer / Data Engineer,,7,4,Senior,,Python,"SQL,AWS,Docker",1,"German,English",,,101-1000,,,,,77,2008,20,0,,"Yes, I am NOT satisfied with a severance package",Yes,over 1000 euros
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,12,6,Lead / Staff,,PHP,"AWS,SQL,Docker",5,"English,Russian",,,101-1000,90000,100000,85000,unlimited,,,,,,,No,500 - 1000
+Munich,,Full-time employee,,Backend Developer,,11,8,Middle,,Ruby,,0,English,,,1000+,84000,101000,89000,unlimited,,,,,,No,Yes,500 - 1000
+Dresden,,Full-time employee,,Other,Solutions Engineer,7,1,Senior,,Other,"SQL,Google Cloud,AWS,Javascript / Typescript,Docker",1,"English,Russian",Not applicable,,101-1000,57000,6000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,4,0,Senior,,Python,,0,English,,,51-100,69000,72000,,28,,,,,,,No,No
+Hamburg,,Full-time employee,,Backend Developer,,17,6,Lead / Staff,,Go,"Python,PHP,Kubernetes,Docker",0,English,,,11-50,120000,145000,100000,27,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Head / Principal / VP,,20,10,Head / Principal,,Java,,3,"English,German",,,101-1000,115000,125000,125000,30,,,,,,No,Yes,No
+Other,Saarbruken,Full-time employee,,QA Engineer,,5,2,Middle,,Java,"Python,SQL",3,English,,,11-50,51000,55000,,26,,,,,,,No,No
+Munich,,Full-time employee,,Data Scientist,,1,1,Junior,,SQL,"SAP / ABAP,SQL",0,English,,,1000+,54000,59000,,30,,,,,,,No,No
+Stuttgart,,Full-time employee,,Other,Application engineer,5,5,Senior,,Python,"AWS,Other,Python",5,English,,,1000+,60000,70000,63000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Data Scientist,,4,1,Middle,,Python,,1,English,,,1000+,77000,82000,72000,30,,,,,,No,Yes,500 - 1000
+Other,,Full-time employee,,DevOps,,3,1,Junior,,Python,"Docker,Terraform,Kubernetes,SAP / ABAP,SQL",1,"English,German",,,1000+,45000,53000,53000,30,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,Designer (UI/UX),,6,0,Senior,,Other,Other,0,English,,,1000+,77000,79000,,Unlimited,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,Head / Principal / VP,,22,5,Head / Principal,,Other,Other,0,English,AWS,,101-1000,250000,320000,200000,27,,,,,,No,Yes,No
+Berlin,,Full-time employee,,QA Engineer,,7,3,Senior,,Other,"Java / Scala,SQL",0,"Russian,English",manual QA,,1000+,75000,75000,55000,30,,,,,,,No,up to 100 euro
+Munich,,Full-time employee,,Backend Developer,,2,0,Middle,,Go,SQL,0,English,,,1000+,68000,68000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,9,4,Lead / Staff,,Python,"SQL,AWS,Docker",2,English,,,101-1000,95000,95000,87000,28,,,,,,,No,100 - 500
+Munich,,Full-time employee,,Software Engineer,,0,0,Junior,,Python,"Azure,Kubernetes,Terraform,Docker,Go,SQL",0,"English,German",,,1000+,57000,68000,0,30,,,,,,,No,100 - 500
+Hamburg,,Full-time employee,,Tech Lead / Team Lead,,13,6,Lead / Staff,,NodeJS,"Javascript / Typescript, React,NodeJS,SQL,Google Cloud,Kubernetes,Terraform,Docker",1,"English,Russian",,,51-100,90000,90000,82000,28,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,6,0,Middle,,PHP,Python,0,English,,,11-50,65000,65000,,26,,,,,,No,Yes,No
+Stuttgart,,Full-time employee,,Software Engineer,,5,5,Middle,,C / C++,"Python,SQL",2,"English,German",,,51-100,85000,0,,30,,,,,,,No,No
+Dusseldorf,,Full-time employee,,QA Engineer,,6,1,Senior,,Other,"SAP / ABAP,Azure,Other",0,English,,,1000+,65000,0,,30,,,,,,No,Yes,No
+Munich,,Full-time employee,,Network / Security Engineer / System Administrator,,15,5,Senior,,Other,"Python,Terraform",2,"English,German,Russian",,,11-50,70000,70000,65000,30,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Frontend Developer,,10,4,Middle,,JavaScript / Typescript,React,2,English,,,1000+,72500,78000,70000,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Software Engineer,,9,2,Lead / Staff,,Java,"Kotlin,SQL,AWS,Docker",3,English,,,1000+,102000,122000,97000,25,,,,,,No,Yes,No
+Munich,,Full-time employee,,Frontend Developer,,7,2,Senior,,JavaScript / Typescript,React,2,English,,,101-1000,67000,68000,65500,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Engineering Manager,,15,8,Other,,Python,Javascript / Typescript,0,English,,,11-50,90000,90000,80000,26,,,,,,,No,No
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,10,6,Senior,,Python,"Docker,Kubernetes,Google Cloud,SQL",2,English,,,1000+,78000,81000,79000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Engineering Manager,,12,5,Head / Principal,,Python,"Python,Azure,Kubernetes,Terraform,Docker",2,English,,,1000+,120000,120000,,30,,,,,,,No,No
+Munich,,Full-time employee,,Product Manager,,11,2,Middle,,Other,Other,1,English,,,1000+,67000,72000,62000,32,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,DevOps,,6,1,Middle,,Go,"Python,Javascript / Typescript,Kubernetes,Terraform,Docker",1,English,,,101-1000,72000,77000,,30,,,,,,,No,100 - 500
+Other,Bad Pyrmont,Full-time employee,,Software Engineer,,7,7,Senior,,C# / .NET,,5,English,,,1000+,67000,67000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,5,5,Middle,,Kotlin,Javascript / Typescript,0,"English,German",,,101-1000,80000,1000,,30,,,,,,,No,No
+Cologne,,Full-time employee,,Data Scientist,,5,5,Lead / Staff,,Python,"R,SQL,Docker",3,German,,,11-50,120000,120000,120000,25,,,,,,,No,No
+Munich,,Full-time employee,,Head / Principal / VP,,14,8,Head / Principal,,Java,"AWS,Kubernetes,Terraform,Docker",5,"English,German,Russian",,,101-1000,125000,130000,107000,30,,,,,,,No,up to 100 euro
+Munich,,Full-time employee,,Software Engineer,,4,4,Middle,,Java,Java / Scala,2,German,,,1000+,61000,65000,61000,27,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,9,4,Senior,,Ruby,"Javascript / Typescript,SQL,Go,AWS",4,English,,,up to 10,78000,78000,72000,30,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,11,4,Lead / Staff,,PHP,"Go,AWS,Docker,Terraform",4,"English,Russian",,,101-1000,85000,85000,75000,30,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Head / Principal / VP,,12,7,Head / Principal,,Java,"PHP,Java / Scala,Docker,Terraform,AWS,SQL, React,Javascript / Typescript",5,"English,Russian",,,1000+,160000,210000,190000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,12,7,Lead / Staff,,JavaScript / Typescript,"Angular, React,Javascript / Typescript",6,English,,,1000+,80000,110000,92000,31,,,,,,,No,No
+Berlin,,Full-time employee,,Data Scientist,,2,0,Middle,,Python,"Python,SQL,AWS,Google Cloud",0,English,,,1000+,53500,53500,,27,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,2,1,Junior,,C / C++,"Python,AWS,Docker",1,English,,,1000+,67000,85000,85000,28,,,,,,No,Yes,500 - 1000
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,5,3,Junior,,Python,Azure,1,English,,,1000+,58000,60000,,30,,,,,,,No,No
+Frankfurt,,Full-time employee,,DevOps,,8,3,Senior,,Other,"AWS,Kubernetes,Terraform,Docker",3,English,,,101-1000,63000,66000,60000,28,,,,,,,No,No
+Munich,,Full-time employee,,Backend Developer,,15,4,Senior,,Java,"SQL,Google Cloud,Terraform,Docker",1,"English,German,Russian",,,1000+,68000,77000,77000,30,,,,,,,No,up to 100 euro
+Other,Dublin,Full-time employee,,Mobile Developer,,20,0,Lead / Staff,,Swift,"C / C++,Other",2,English,,,101-1000,110000,0,100000,24,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Backend Developer,,10,4,Senior,,PHP,"SQL,Docker",0,English,,,1000+,75000,75000,60000,28,,,,,,,No,No
+Dusseldorf,,Full-time employee,,Data Scientist,,2,2,Junior,,Python,R,1,"English,German",,,1000+,52000,52000,,,,,,,,,No,over 1000 euros
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,10,2,Lead / Staff,,Go,"Kubernetes,Google Cloud,Terraform,Docker",2,"English,Russian",,,11-50,105000,105000,95000,45,,,,,,,No,over 1000 euros
+Hamburg,,Full-time employee,,QA Engineer,,16,7,Senior,,JavaScript / Typescript,,3,"English,German,Russian",,,101-1000,70000,76000,70000,30,,,,,,,No,up to 100 euro
+Munich,,Full-time employee,,DevOps,,6,1,Senior,,C# / .NET,"Javascript / Typescript,SQL,NodeJS,Azure,Terraform",0,English,,,up to 10,70000,70000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,7,0,Senior,,Other,"Go,Python,Docker,Perl",0,"English,Russian",Lua,,1000+,82800,90000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,12,4,Middle,,Python,"PHP,Javascript / Typescript",0,"English,German",,,101-1000,60000,60000,,,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,12,1,Senior,,Java,,1,English,,,101-1000,80000,80000,,31,,,,,,,No,No
+Berlin,,Full-time employee,,Product Manager,,15,10,Lead / Staff,,Java,,10,"English,German,Russian",,,11-50,53500,55000,55000,28,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,5,1,Middle,,JavaScript / Typescript,,1,"Russian,German,English",,,1000+,70000,70000,,,,,,,,,No,No
+Berlin,,Full-time employee,,Software / Solutions Architect,,15,6,Lead / Staff,,PHP,"Python,C# / .NET core,NodeJS,SQL,AWS,Kubernetes,Docker",0,"English,German,Russian",,,101-1000,100000,100000,80000,28,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Other,Developer Advocate,14,0,Senior,,Kotlin,"Python,Java / Scala,SQL,AWS,Google Cloud",3,"English,Russian",,,1000+,80000,80000,,30,,,,,,,No,over 1000 euros
+Karlsruhe,,Full-time employee,,Engineering Manager,,22,8,Lead / Staff,,C# / .NET,"Javascript / Typescript, React,Kubernetes,Terraform,Docker,Azure,Google Cloud,Python,C# / .NET core",4,"English,German",,,1000+,106000,127000,115000,30,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,18,7,Head / Principal,,C / C++,"Python,Perl,Other",2,"English,Russian",,,1000+,91000,91000,91000,30,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Frontend Developer,,14,4,Senior,,JavaScript / Typescript,,2,"English,Russian",,,1000+,80000,80000,75000,30,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,QA Engineer,,6,2,Middle,,Java,,0,"English,Russian",,,1000+,60000,60000,52800,30,,,,,,,No,No
+Berlin,,Full-time employee,,C-level (CTO / CEO / ...),,14,8,Head / Principal,,JavaScript / Typescript,"NodeJS,Go,AWS,Terraform,Docker, React,Python,SQL",2,English,,,11-50,110000,250000,220000,24,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,Backend Developer,,6,5,Senior,,Ruby,,4,English,,,51-100,74000,74000,64000,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Head / Principal / VP,,18,10,Head / Principal,,Other,"Python,Java / Scala,C / C++,NodeJS,Javascript / Typescript,Kubernetes,Other,Docker,AWS,SQL",10,English,N/A,,1000+,140000,160000,,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Backend Developer,,6,1,Middle,,Java,"Java / Scala,SQL",1,"English,Russian",,,101-1000,60000,66000,,30,,,,,,,No,500 - 1000
+Berlin,,Full-time employee,,Backend Developer,,5,0,Middle,,Ruby,,0,English,,,51-100,65000,65000,,29,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Frontend Developer,,4,1,Middle,,JavaScript / Typescript,React,1,English,,,51-100,55000,0,0,30,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,Network / Security Engineer / System Administrator,,10,6,Lead / Staff,,Python,"Terraform,Kubernetes,AWS,NodeJS, React,Javascript / Typescript,Java / Scala",2,English,,,1000+,100000,130000,100000,28,,,,,,No,Yes,No
+Other,Schleswig-Holstein,Full-time employee,,Software Engineer,,28,20,Senior,,C# / .NET,C / C++,20,"English,German",,,51-100,97000,108000,110000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,8,2,Lead / Staff,,JavaScript / Typescript,"Python,Javascript / Typescript, React,NodeJS,Docker,AWS",2,"English,Russian",,,101-1000,85000,85000,80000,28,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,10,10,Lead / Staff,,PHP," React,NodeJS,Docker",3,"English,German",,,11-50,60000,61000,,30,,,,,,No,Yes,No
+Other,Paris,Full-time employee,,Product Manager,,15,0,Senior,,SQL,"SQL,Other",0,English,,,11-50,57700,59000,,28,,,,,,,No,100 - 500
+Aachen,,Full-time employee,,Software Engineer,,5,5,Senior,,Python,"Javascript / Typescript, React,SQL",2,English,,,101-1000,100000,105000,87500,25,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,25,7,Senior,,Python,"SQL,AWS,Google Cloud,Docker",1,"English,Russian",,,11-50,200000,200000,200000,unlimited,,,,,,,No,No
+Hamburg,,Self-employed (freelancer),,Software Engineer,,13,9,Senior,,Java,"Python,Javascript / Typescript,NodeJS,AWS,Terraform,Docker,Other",1,"German,English",,,101-1000,,,,,87,1700,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,11,0,Senior,,Go,C# / .NET core,0,"English,Russian",,,101-1000,90000,0,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,11,1,Senior,,PHP,"Javascript / Typescript,NodeJS,SQL,AWS,Docker",1,English,,,11-50,70000,70000,57000,24,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,5,4,Senior,,C / C++,,1,English,,,11-50,75000,75000,60000,30,,,,,,,No,No
+Berlin,,Full-time employee,,QA Engineer,,15,5,Lead / Staff,,Python,"Javascript / Typescript,NodeJS,SQL,Go,Docker,AWS",4,English,,,101-1000,85000,89000,80000,30,,,,,,,No,100 - 500
+Munich,,Full-time employee,,Software Engineer,,14,3,Senior,,JavaScript / Typescript,,0,English,,,1000+,110000,137000,75000,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Software Engineer,,6,2,Middle,,Java,"Javascript / Typescript,AWS,Docker,Kubernetes",0,"English,German",,,101-1000,69000,69000,65000,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Backend Developer,,12,4,Senior,,JavaScript / Typescript,"Javascript / Typescript,Angular,NodeJS,SQL,AWS",2,English,,,11-50,55000,55000,55000,23,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,10,10,Lead / Staff,,Python,"Python,Docker,Kubernetes,AWS",2,English,,,101-1000,82500,82500,75000,27,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Backend Developer,,15,4,Senior,,C# / .NET,"C# / .NET core,Javascript / Typescript,.NET,SQL,Docker,Other",2,German,,,1000+,80000,80000,75000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Engineering Manager,,8,4,Senior,,Ruby,"Docker,AWS,Javascript / Typescript",4,"English,Russian",,,101-1000,85000,95000,85000,25,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Software Engineer,,7,5,Middle,,Go,"Python,SQL,Google Cloud,Kubernetes,Terraform,Docker",1,English,,,1000+,78000,83000,72000,27,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Backend Developer,,10,10,Middle,,Java,"AWS,Docker,Terraform,SQL, React",1,English,,,101-1000,80000,80000,,28,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Data Scientist,,4,1,Middle,,Python,"SQL,Google Cloud",1,English,,,1000+,70000,100000,,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,6,3,Middle,,JavaScript / Typescript,React,1,English,,,101-1000,80000,90000,65000,40,,,,,,,No,over 1000 euros
+Darmstadt,,Full-time employee,,Software Engineer,,18,1,Senior,,Python,"Python,Javascript / Typescript,Angular,Kubernetes,Docker",10,"English,Russian",,,51-100,65000,65000,,14,,,,,,,No,No
+Berlin,,Full-time employee,,Data Scientist,,6,0,Senior,,Python,"SQL,AWS,Google Cloud,Docker",0,English,,,1000+,96000,111000,,28,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Software Engineer,,0,0,Junior,,Kotlin,Docker,0,English,,,1000+,50000,50000,,30,,,,,,,No,No
+Berlin,,Part-time employee,,Tech Lead / Team Lead,,10,8,Senior,,Python,"Python,Javascript / Typescript,AWS,Docker,Kubernetes,Go",5,English,,,101-1000,66800,70140,60800,24,,,,,32,,No,No
+Munich,,Full-time employee,,Mobile Developer,,8,4,Middle,,Kotlin,"Python,Java / Scala,Javascript / Typescript",3,English,,,101-1000,85000,86500,76000,30,,,,,,,No,500 - 1000
+Munich,,Full-time employee,,Tech Lead / Team Lead,,20,4,Head / Principal,,Python,"AWS,Kubernetes,Docker",2,"English,German,Russian",,,1000+,135000,155000,145000,30,,,,,,,No,up to 100 euro
+Munich,,Full-time employee,,Software Engineer,,13,7,Senior,,Kotlin,"Java / Scala,Docker",2,"English,Russian",,,101-1000,98000,115000,88000,30,,,,,,,No,No
+Munich,,Full-time employee,,Tech Lead / Team Lead,,9,8,Senior,,C / C++,"Python,Java / Scala,C / C++,SQL",8,English,,,1000+,112000,180000,230000,30,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,10,6,Middle,,Java,Kotlin,3,"Russian,English",,,1000+,96500,104000,94000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Tech Lead / Team Lead,,12,1,Head / Principal,,Python,"Python,Go,SQL,AWS,Kubernetes,Terraform,Docker,Other",0,English,,,101-1000,95000,95000,,28,,,,,,,No,100 - 500
+Munich,,Full-time employee,,Software Engineer,,5,5,Middle,,Java,"SQL,Docker,Other",3,"German,English,Russian",,,1000+,69300,69300,64500,30,,,,,,No,Yes,No
+Stuttgart,,Full-time employee,,Product Manager,,5,4,Senior,,Other,,3,English,,,up to 10,65000,65000,58000,30,,,,,,,No,No
+Berlin,,Self-employed (freelancer),,Software Engineer,,15,15,Lead / Staff,,JavaScript / Typescript," React,NodeJS",2,"English,German",,,101-1000,,,,,110,2900,30,,,,No,No
+Berlin,,Full-time employee,,QA Engineer,,15,3,Senior,,Java,SQL,0,"Russian,English",,,1000+,81000,84675,60000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,17,3,Senior,,Go,"PHP,Docker,Kubernetes",0,"Russian,English",,,101-1000,85000,85000,78000,26,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,6,3,Senior,,C / C++,"Java / Scala,Python,Kotlin",0,"English,Russian",,,1000+,90000,9,75,30,,,,,,,No,500 - 1000
+Berlin,,Full-time employee,,DevOps,,16,8,Senior,,Other,"Python,Go,Kubernetes,Terraform,Docker",1,English,HCL,,51-100,95000,100000,70000,26,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Data Scientist,,6,3,Senior,,Python,"SQL,Docker,Google Cloud",0,English,,,1000+,116000,146000,105000,28,,,,,,No,Yes,up to 100 euro
+Berlin,,Full-time employee,,Backend Developer,,15,4,Senior,,PHP,Go,1,English,,,101-1000,80000,80000,73000,25,,,,,,,No,No
+Berlin,,Full-time employee,,Engineering Manager,,1,5,Junior,,JavaScript / Typescript," React,Javascript / Typescript,NodeJS",0,"English,German",,,1000+,100000,100000,76000,30,,,,,,No,Yes,over 1000 euros
+Berlin,,Full-time employee,,Frontend Developer,,7,1,Senior,,JavaScript / Typescript,"Javascript / Typescript, React",1,English,,,51-100,75000,75000,,30,,,,,,No,Yes,No
+Berlin,,Full-time employee,,QA Engineer,,14,7,Lead / Staff,,Kotlin,"Javascript / Typescript,Java / Scala",3,English,,,11-50,80000,88000,69000,30,,,,,,,No,No
+Munich,,Full-time employee,,Backend Developer,,18,5,Senior,,PHP,"Go,AWS,Docker",1,English,,,101-1000,83000,83000,83000,28,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,15,5,Senior,,JavaScript / Typescript,"Javascript / Typescript, React,Other",1,English,,,51-100,95000,95000,85000,unlimited,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,3,0,Middle,,Go,Docker,0,English,,,101-1000,72000,72000,,unlimited,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Backend Developer,,14,1,Senior,,Java,"Python,SQL,AWS,Kubernetes,Terraform,Docker",1,English,,,101-1000,82500,106000,,28,,,,,,No,Yes,over 1000 euros
+Berlin,,Full-time employee,,BI Developer / Data Engineer,,10,7,Senior,,Python,"SQL,Terraform,Docker",2,English,,,1000+,90000,113500,83500,28,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,5,3,Middle,,JavaScript / Typescript,"Python,Swift",0,English,,,1000+,115000,170000,65000,30,,,,,,No,Yes,over 1000 euros
+Berlin,,Full-time employee,,Software Engineer,,8,7,Senior,,Scala,"Go,Docker",3,English,,,1000+,100000,101800,,30,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,Engineering Manager,,12,7,Lead / Staff,,JavaScript / Typescript,"Javascript / Typescript,Angular,NodeJS,Go,Python,Java / Scala,AWS",0,English,,,51-100,165000,195000,180000,25,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Engineering Manager,,8,6,Lead / Staff,,Go,"AWS,Google Cloud,Kubernetes,Docker,Terraform",0,English,,,101-1000,126000,136000,90000,28,,,,,,,No,No
+Berlin,,Full-time employee,,Backend Developer,,7,4,Senior,,Java,Kotlin,0,English,,,1000+,110000,125000,88000,24,,,,,,No,Yes,No
+Berlin,,Self-employed (freelancer),,Software Engineer,,10,7,Senior,,JavaScript / Typescript," React,NodeJS",0,English,,,1000+,,,,,75,1580,31,0,,No,Yes,No
+Berlin,,Full-time employee,,Other,Technical Account Manager,12,1,Senior,,SQL,Python,1,English,,,101-1000,67000,67000,63000,unlimited,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,Software Engineer,,10,2,Lead / Staff,,JavaScript / Typescript,"C / C++,Kotlin, React,Other",1,English,,,11-50,190000,190000,,unlimited,,,,,,,No,No
+Darmstadt,,Full-time employee,,BI Developer / Data Engineer,,5,3,Senior,,SQL,SQL,3,English,,,up to 10,60000,60000,60000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,12,7,Senior,,Python,"Python,Go,AWS,Google Cloud,Docker,Terraform,Kubernetes",0,English,,,11-50,90000,9000,80000,30,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,5,1,Senior,,Java,"Go,AWS,Docker",1,English,,,1000+,80000,80000,,30,,,,,,,No,No
+Other,Leipzig,Full-time employee,,Mobile Developer,,7,1,Senior,,Swift,,0,"English,German",,,101-1000,85000,85000,,30,,,,,,No,Yes,100 - 500
+Berlin,,Full-time employee,,Software Engineer,,3,3,Middle,,JavaScript / Typescript," React,NodeJS",3,English,,,51-100,68000,71060,60000,Unlimited,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Engineering Manager,,17,6,Middle,,Java,"SQL,Go,AWS,Kubernetes,Docker",1,English,,,101-1000,105000,105000,75000,28,,,,,,No,Yes,No
+Stuttgart,,Full-time employee,,QA Engineer,,6,5,Senior,,JavaScript / Typescript,"NodeJS,Azure",2,English,,,101-1000,71500,71500,70000,30,,,,,,,No,No
+Hamburg,,Full-time employee,,Other,Support,20,4,Senior,,Bash,"Kubernetes,AWS",4,English,,,101-1000,69000,74000,75000,28,,,,,,No,Yes,No
+Munich,,Full-time employee,,Software Engineer,,4,1,Middle,,C# / .NET,"C# / .NET core,.NET,SQL",1,English,,,51-100,58000,60000,,30,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,Data Scientist,,6,0,Senior,,Python,Python,0,English,,,1000+,105000,105000,,27,,,,,,,No,No
+Hamburg,,Full-time employee,,Software Engineer,,4,0,Middle,,SAP / ABAP,Javascript / Typescript,0,"English,German",,,101-1000,60000,60000,,30,,,,,,,No,up to 100 euro
+Munich,,Full-time employee,,Software Engineer,,13,3,Senior,,C# / .NET,"C# / .NET core,Angular,Javascript / Typescript,SQL,.NET,Azure",3,English,,,51-100,71400,72000,66000,29,,,,,,,No,No
+Munich,,Full-time employee,,Software Engineer,,9,4,Senior,,Swift,,1,English,,,11-50,73000,73000,68000,30,,,,,,,No,No
+Berlin,,Full-time employee,,Head / Principal / VP,,14,8,Head / Principal,,JavaScript / Typescript,"Kotlin,Swift, React,NodeJS",7,English,,,101-1000,130000,130000,105000,30,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Frontend Developer,,8,1,Senior,,JavaScript / Typescript," React,NodeJS",1,"English,Russian",,,11-50,82000,82000,63000,Unlimited,,,,,,No,Yes,500 - 1000
+Berlin,,Full-time employee,,Head / Principal / VP,,12,8,Head / Principal,,JavaScript / Typescript,"NodeJS,SQL,Google Cloud,Kubernetes,Docker",5,English,,,51-100,110000,110000,88000,26,,,,,,,No,No
+Berlin,,Full-time employee,,QA Engineer,,6,0,Senior,,JavaScript / Typescript,SQL,0,"English,Russian,German",,,101-1000,60000,60000,,27,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,Backend Developer,,10,7,Senior,,Python,"Java / Scala,SQL,Google Cloud,Kubernetes,Docker,Kotlin,AWS,Terraform",3,"English,Russian",,,1000+,95000,10000,15000,29,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,Other,Data Analyst,5,1,Middle,,SQL,,1,English,,,101-1000,60000,0,60000,28,,,,,,No,Yes,No
+Berlin,,Full-time employee,,Backend Developer,,9,0,Senior,,Java,"Kotlin,Terraform,Docker,Kubernetes",0,English,,,1000+,80000,80000,,30,,,,,,,No,No
+Munich,,Full-time employee,,QA Engineer,,8,4,Senior,,Kotlin,Swift,2,English,,,1000+,94000,112000,92000,30,,,,,,No,Yes,over 1000 euros
+Berlin,,Full-time employee,,C-level (CTO / CEO / ...),,25,10,Head / Principal,,C# / .NET,"C / C++,Python,Javascript / Typescript,Kubernetes,Azure,Terraform",4,English,,,51-100,96800,577500,90000,30,,,,,,,No,100 - 500
+Berlin,,Full-time employee,,Software Engineer,,15,10,Lead / Staff,,C / C++,"Python,Rust",3,English,,,1000+,105000,120000,115000,30,,,,,,,No,500 - 1000
+Berlin,,Full-time employee,,Software Engineer,,7,0,Senior,,Java,,0,German,,,51-100,65000,65000,,30,,,,,,,No,No
+Other,Würzburg,Full-time employee,,Software Engineer,,15,2,Senior,,SAP / ABAP,"Azure,Kubernetes,Docker",2,English,,,51-100,67800,74800,,30,,,,,,,No,up to 100 euro
+Berlin,,Full-time employee,,Backend Developer,,18,6,Lead / Staff,,Go,"Javascript / Typescript,SQL,Kubernetes,Docker",0,English,,,11-50,120000,145000,89000,24,,,,,,,No,No
+Berlin,,Full-time employee,,Software Engineer,,3,3,Junior,,C# / .NET,"Azure,SQL,.NET",0,"English,German,Russian",,,1000+,48000,49920,,30,,,,,,"Yes, I am satisfied with a severance package",Yes,100 - 500

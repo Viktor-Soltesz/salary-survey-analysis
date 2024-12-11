@@ -1,0 +1,14 @@
+IT Salary Survey December 2023
+https://www.asdcode.de/2024/04/it-salary-survey-december-2023.html
+
+ANDRE SIONEK - Kaggle
+https://www.kaggle.com/datasets/andresionek/data-jobs-listings-glassdoor
+
+AI-Jobs.net
+https://ai-jobs.net/salaries/
+
+Stack overflow
+https://survey.stackoverflow.co/
+
+Kaggle
+https://www.kaggle.com/code/holfyuen/kaggle-survey-2017-2022/input

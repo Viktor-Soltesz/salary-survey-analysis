@@ -1,0 +1,135 @@
+western_countries = ['de', 'at', 'gb', 'fr', 'nl', 'be', 'dk', 'se', 'fi', 'no', 'us', 'ca', 'au']
+
+median_salary = {
+    'de': 52811,   # Germany
+    'at': 46456,   # Austria
+    'gb': 39000,   # United Kingdom
+    'fr': 38694,   # France	
+    'nl': 47175,   # Netherlands	
+    'be': 44000,   # Belgium
+    'dk': 63000,   # Denmark
+    'se': 38889,   # Sweden
+	'fi': 36000,   # Finland
+    'no': 55000,   # Norway
+    'us': 36000,   # United States
+    'ca': 27000,   # Canada
+	'au': 43680,   # Australia
+	
+	'ch': 85000,   # Switzerland
+    'ie': 38500,   # Ireland
+    'lu': 50000    # Luxembourg
+	
+    'pl': 12000,   # Poland
+    'it': 27500,   # Italy
+    'cz': 16364,   # Czech Republic
+    'pt': 16500,   # Portugal
+    
+    'es': 24200,   # Spain
+    'hu': 15000,   # Hungary
+	'ro': 12000,   # Romania
+	'bg': 7800,    # Bulgaria
+	'si': 19200,   # Slovenia
+
+    'ee': 15600,   # Estonia
+	'lt': 15000,   # Lithuania
+    'lv': 15000,   # Latvia
+    'by': 4800,    # Belarus
+	
+    'ba': 6500,    # Bosnia and Herzegovina
+
+
+    'gr': 13200,   # Greece
+    'ua': 3555,    # Ukraine
+    'hr': 12000,   # Croatia
+    'rs': 7500,    # Serbia
+
+	
+
+
+    'ru': 6000,    # Russia
+    'tr': 4000,    # Turkey
+	
+    'in': 3125,    # India
+    'id': 3429,    # Indonesia
+    'pk': 2250,    # Pakistan
+    'jp': 40900,   # Japan
+    'br': 4364,    # Brazil
+    'kr': 29167,   # South Korea
+
+    'ng': 1500,    # Nigeria
+
+
+    'mx': 4200,    # Mexico
+
+
+    'cl': 7500,    # Chile
+    'hk': 26923,   # Hong Kong
+    'za': 8000,    # South Africa
+    'ar': 6000,    # Argentina
+
+    'il': 34286,   # Israel
+    'tw': 17143,   # Taiwan
+    'eg': 2400,     # Egypt
+    'ma': 4000,   # Morocco
+
+    'co': 5000,   # Colombia
+
+    'th': 8000,   # Thailand
+
+    'vn': 2500,   # Vietnam
+    'sg': 40000,  # Singapore
+    'bd': 1500,   # Bangladesh
+    'ir': 3000,   # Iran
+    'pe': 4500,   # Peru
+    'ke': 3000,   # Kenya
+
+    'cn': 10000,  # China
+
+
+    'dz': 3000,   # Algeria
+    'nz': 35000,  # New Zealand
+    'tn': 3500,   # Tunisia
+    'ph': 3000,   # Philippines
+    'my': 7000,   # Malaysia
+
+    'sa': 25000,  # Saudi Arabia
+    'ae': 40000,  # United Arab Emirates
+    'np': 2500,   # Nepal
+    'lk': 2500,   # Sri Lanka
+    'gh': 3000,   # Ghana
+    'et': 1000,   # Ethiopia
+    'iq': 7000,   # Iraq
+    'ec': 4000,   # Ecuador
+    'kz': 5000,   # Kazakhstan
+    'ug': 2500,   # Uganda
+    'cm': 2500,   # Cameroon
+    'zw': 1500,    # Zimbabwe
+
+    'ge': 4800,    # Georgia
+
+    
+
+    'om': 23000,   # Oman
+
+    'mt': 18000,   # Malta
+    'lb': 5000,    # Lebanon
+
+    'mu': 8400,    # Mauritius
+    'am': 6000,    # Armenia
+    'qa': 27000,   # Qatar
+    'ad': 20000,   # Andorra
+    'md': 6300,    # Moldova
+    'uz': 2160,    # Uzbekistan
+    'cf': 500,     # Central African Republic
+    'kw': 30000,   # Kuwait
+    'cy': 21600,   # Cyprus
+    'as': 14000,   # American Samoa
+    'cr': 10000,   # Costa Rica
+    'pr': 15000,   # Puerto Rico
+    'bo': 3600,    # Bolivia
+    'do': 4200,    # Dominican Republic
+    'hn': 5000,    # Honduras
+
+    'je': 36000,   # Jersey
+
+}
