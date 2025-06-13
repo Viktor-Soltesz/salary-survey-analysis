@@ -12,3 +12,6 @@ env/
 
 # Ignore environment variables file
 .env
+
+# Obsolete files
+obs

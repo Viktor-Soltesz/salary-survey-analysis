@@ -1,9 +1,7 @@
-# salary-survey-analysis
-
-## Statistical Analysis (Stage 6 of 6)
+# Statistical Modeling (Stage 4 of 5)
 
 This repository performs inferential and predictive analysis using the cleaned and modeled salary survey data from earlier pipeline stages.  
-It uses Jupyter notebooks, `pandas`, `statsmodels`, and `scipy` to run robust statistical tests (e.g. ANOVA) and multiregression models to uncover trends and drivers of developer compensation across countries, roles, and seniority levels.
+It uses Jupyter notebooks, `pandas`, `statsmodels`, and `scipy` to run robust statistical inference (ANOVA) and multiregression models to quantify the drivers of Salaries of Software Developers across countries, roles, seniority levels, and other factors.
 
 ---
 
@@ -11,16 +9,14 @@ It uses Jupyter notebooks, `pandas`, `statsmodels`, and `scipy` to run robust st
 
 This project is split into modular repositories, each handling one part of the full ELT and analytics pipeline:
 
-| Stage | Name                        | Description                                | Repository |
+| Stage | Name                        | Description                                | Link |
 |-------|-----------------------------|--------------------------------------------|------------|
-| 1     | Ingestion & Infrastructure  | Terraform + Cloud Functions for ETL        | [salary-survey-iac](https://github.com/Viktor-Soltesz/salary-survey-iac) |
-| 2     | Modeling & Transformation   | DBT models, metrics, testing               | [salary-survey-dbt](https://github.com/Viktor-Soltesz/salary-survey-dbt) |
-| 3     | Tableau dashboards          | Interactive salary exploration             | [Tableau Public](https://public.tableau.com/app/profile/viktor.solt.sz/viz/SoftwareDeveloperSalaries/Dashboard) |
-| 4     | Model Observability         | Drift & lineage tracking (Elementary)      | [salary-survey-edr](https://github.com/Viktor-Soltesz/salary-survey-edr) |
-| 5     | Data Quality Monitoring     | Great Expectations (GX) data observability  | [salary-survey-gx](https://github.com/Viktor-Soltesz/salary-survey-gx) |
-| **▶️ 6** | **Statistical Analysis**    | **ANOVA, regressions, prediction**   | **[salary-survey-analysis](https://github.com/Viktor-Soltesz/salary-survey-analysis)** |
-| +     | Presentation   |  [Google slides](https://docs.google.com/presentation/d/1BHC6QnSpObVpulEcyDLXkW-6YLo2hpnwQ3miQg43iBg/edit?slide=id.g3353e8463a7_0_28#slide=id.g3353e8463a7_0_28) |
-| +     | Data Dictionary | [Google sheets](https://docs.google.com/spreadsheets/d/1cTikHNzcw3e-gH3N8F4VX-viYlCeLbm5JkFE3Wdcnjo/edit?gid=0#gid=0) |
+| 1     | Ingestion & Infrastructure  | Terraform + Python Cloud Functions        | [salary-survey-iac (GitHub)](https://github.com/Viktor-Soltesz/salary-survey-iac) |
+| 2     | Modeling & Transformation   | DBT data models and testing               | [salary-survey-dbt (GitHub)](https://github.com/Viktor-Soltesz/salary-survey-dbt) <br> ㅤ⤷ [DBT docs](https://viktor-soltesz.github.io/salary-survey-dbt-docs/index.html#!/overview)|
+| 3     | Data Validation & Observability  | Great Expectations & Elementary      | [salary-survey-gx (GitHub)](https://github.com/Viktor-Soltesz/salary-survey-gx) <br> ㅤ⤷ [GX log](https://viktor-soltesz.github.io/salary-survey-gx/gx_site/index.html) <br> ㅤ⤷ [Elementary report](https://viktor-soltesz.github.io/salary-survey-dbt/elementary_report.html#/report/dashboard) |
+| **▶️ 4** | **Statistical Modeling**    | **ANOVA, multiregressions, prediction**   | **[salary-survey-analysis (GitHub)](https://github.com/Viktor-Soltesz/salary-survey-analysis)** |
+| 5     | Dashboards          | •ㅤInteractive salary exploration <br> •ㅤData Health metrics, gathered during runs <br> •ㅤBilling report, live export from GCP <br> •ㅤBigQuery report, from GCP logging |ㅤ🡢 [Tableau Public](https://public.tableau.com/app/profile/viktor.solt.sz/viz/SoftwareDeveloperSalaries/Dashboard) <br>ㅤ🡢 [Looker Studio](https://lookerstudio.google.com/s/mhwL6JfNlaw)<br>ㅤ🡢 [Looker Studio](https://lookerstudio.google.com/s/tp8jUo4oPRs)<br>ㅤ🡢 [Looker Studio](https://lookerstudio.google.com/s/v2BIFW-_Jak)|
+| +     | Extra material | •ㅤPresentation <br> •ㅤData Dictionary <br>  •ㅤSLA Table <br>  •ㅤMy LinkedIn<br>  •ㅤMy CV|ㅤ🡢 [Google Slides](https://docs.google.com/presentation/d/1BHC6QnSpObVpulEcyDLXkW-6YLo2hpnwQ3miQg43iBg/edit?slide=id.g3353e8463a7_0_28#slide=id.g3353e8463a7_0_28) <br>ㅤ🡢 [Google Sheets](https://docs.google.com/spreadsheets/d/1cTikHNzcw3e-gH3N8F4VX-viYlCeLbm5JkFE3Wdcnjo/edit?gid=0#gid=0) <br>ㅤ🡢 [Google Sheets](https://docs.google.com/spreadsheets/d/1r85NlwsGV1DDy4eRBfMjZgI-1_uyIbl1fUazgY00Kz0/edit?usp=sharing) <br>ㅤ🡢 [LinkedIn](https://www.linkedin.com/in/viktor-soltesz/) <br>ㅤ🡢 [Google Docs](https://www.linkedin.com/in/viktor-soltesz/)|
 
 ---
 
@@ -31,9 +27,8 @@ This repository focuses on:
 - **Multivariate ANOVA** to test how various factors affect salary
 - **Regression modeling** to predict and quantify salary based on profile features
 - **Post-hoc tests, diagnostics, and assumption validation**
-- **Insights communication** through annotated notebooks
 
-It complements the BI dashboard by offering controlled, reproducible quantitative conclusions beyond visual trends.
+It complements the Tableau dashboard by offering controlled, reproducible quantitative conclusions beyond visual trends.
 
 ---
 
@@ -81,14 +76,8 @@ This project serves as a guide for those interested in exploring salary trends
 in the software development industry, providing insights into data preparation, 
 analysis, and predictive modeling for salary estimation.
 
----
-
-## Appendix
-
-- Reproducible via Jupyter Lab
-- Libraries used: `pandas`, `numpy`, `statsmodels`, `scipy`, `matplotlib`, `seaborn`
-- Notebooks include inline commentary and visualizations
-- Supports interpretation of results shown in Tableau (Stage 3)
-
+- Reproducible via Jupyter Notebooks, but for best performance I recommend Jupyter Lab.
+- Create a new virtual environment and install the dependencies in `requirements.txt`
+- Happy Exploration :)
 ---
 
