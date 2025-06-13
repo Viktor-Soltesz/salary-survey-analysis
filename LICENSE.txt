@@ -1,6 +1,6 @@
 LICENSE
 
-Copyright (c) 2024 Viktor Soltész
+Copyright (c) 2025 Viktor Soltész
 
 1. Acknowledgment of Data Sources
 This project uses publicly available or proprietary datasets. The rights to the original data belong to their respective owners. The following sources were used in the project:
